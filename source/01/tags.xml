@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Tags SYSTEM "matroskatags.dtd"> -->
+<Tags>
+  <Tag>
+    <Targets>
+      <TrackUID>2666949077562076442</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>2344999</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:22:21.012000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>32152</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>393084032</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v74.0.0 ('You Oughta Know') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_DATE_UTC</Name>
+      <String>2023-05-15 15:25:05</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+  <Tag>
+    <Targets>
+      <TrackUID>9951729783643093700</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>192000</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:22:20.904000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>55871</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>32181696</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v74.0.0 ('You Oughta Know') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_DATE_UTC</Name>
+      <String>2023-05-15 15:25:05</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+  <Tag>
+    <Targets>
+      <TrackUID>2139380781904136551</TrackUID>
+    </Targets>
+    <Simple>
+      <Name>BPS</Name>
+      <String>167</String>
+    </Simple>
+    <Simple>
+      <Name>DURATION</Name>
+      <String>00:22:16.270000000</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_FRAMES</Name>
+      <String>310</String>
+    </Simple>
+    <Simple>
+      <Name>NUMBER_OF_BYTES</Name>
+      <String>28053</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_APP</Name>
+      <String>mkvmerge v74.0.0 ('You Oughta Know') 64-bit</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_WRITING_DATE_UTC</Name>
+      <String>2023-05-15 15:25:05</String>
+    </Simple>
+    <Simple>
+      <Name>_STATISTICS_TAGS</Name>
+      <String>BPS DURATION NUMBER_OF_FRAMES NUMBER_OF_BYTES</String>
+    </Simple>
+  </Tag>
+</Tags>
