@@ -14,7 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 01.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Active Line: 1
+Scroll Position: 15
+Active Line: 20
 Video Position: 6818
 
 [V4+ Styles]
@@ -26,25 +27,25 @@ Style: Sign,Calibri,30,&H00FFFFFF,&H000000FF,&H001C2C0E,&H00000000,-1,0,0,0,100,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:28.78,0:01:28.82,Default,,0,0,0,,{op end}
 Dialogue: 0,0:00:04.67,0:00:09.05,Sign,,0,0,0,,{水晶のような}水晶般晶莹的
-Dialogue: 0,0:00:10.67,0:00:17.05,Sign,,0,0,0,,{朝モヤが降りてくる}Morning fog starts to form{/descends}
+Dialogue: 0,0:00:10.67,0:00:17.05,Sign,,0,0,0,,{朝モヤが降りてくる}晨雾轻轻降临{/descends}
 Dialogue: 0,0:00:12.01,0:00:19.33,Sign,,0,0,50,,{\fsp3\fscx140\fade(2000,0)\b1\blur4\bord0\fs55\c&H5357A5&\frz8\t(2000,2500,\blur1)\1a&H31&}I{\frz6.77} {\frz5.54}a{\frz4.31}n{\frz3.08}d{\frz1.85} {\c&H8CB0CC&\frz0.62}M{\frz-0.62}y{\c&H535138&\frz-1.85}s{\frz-3.08}e{\frz-4.31}l{\frz-5.54}f{\frz-6.77}:{\frz-8} \N\N\N\N\N\N\N\N{\fs40\frz\c&HDCDFE8&\1a&H17&\b\fscx}The Two Lottes
-Dialogue: 0,0:00:19.33,0:00:23.81,Sign,,0,0,0,,{そよ風がはこぶ}What gentle breeze is bringing us{/carried by ...}
-Dialogue: 0,0:00:25.40,0:00:32.19,Sign,,0,0,0,,{誰かが弾くビバルディ}Somebody out there playing Vivaldi
-Dialogue: 0,0:00:34.32,0:00:39.99,Sign,,0,0,0,,{合わせ鏡映す}Reflection I'm seeing in the mirror{really no clue what's this about - opposite/facing/matching mirror reflects/shows}
-Dialogue: 0,0:00:39.99,0:00:46.96,Sign,,0,0,0,,{迷路のなか　見つめれば}Is like a glance straight into a maze{still no clue}
-Dialogue: 0,0:00:46.96,0:00:55.18,Sign,,0,0,0,,{不思議ね　イマージュ - 時のミラーシュ}Mysterious image - a time's mirage
-Dialogue: 0,0:00:56.30,0:01:01.89,Sign,,0,0,0,,{もうひとりの私が}There is one more, another me
-Dialogue: 0,0:01:01.89,0:01:10.11,Sign,,0,0,0,,{心の奥に生きているの}The one that keeps on living in the depths of my heart
-Dialogue: 0,0:01:11.15,0:01:16.41,Sign,,0,0,0,,{空夢のように}Just like a childish fruitless{/empty} dream
-Dialogue: 0,0:01:18.49,0:01:23.00,Sign,,0,0,0,,{ひとりじゃないよと}"You are no longer alone" -
-Dialogue: 0,0:01:24.46,0:01:27.21,Sign,,0,0,0,,{ささやいて}I hear a whisper
-Dialogue: 0,0:01:30.25,0:01:32.88,Sign,,0,0,0,,Seebühl Village {ゼービュール村}{im taking names from the book because if we hear them say this german way, writing Bohrlaken would be discrepant}
-Dialogue: 0,0:01:41.14,0:01:44.81,Sign,,0,0,0,,Bühlsee Lake {ビュールゼー湖}
-Dialogue: 0,0:01:45.64,0:01:47.08,Default,,0,0,0,,It's so peaceful here.{/calm}
+Dialogue: 0,0:00:19.33,0:00:23.81,Sign,,0,0,0,,{そよ風がはこぶ}微风带来了{/carried by ...}
+Dialogue: 0,0:00:25.40,0:00:32.19,Sign,,0,0,0,,{誰かが弾くビバルディ}某人演奏的维瓦尔第
+Dialogue: 0,0:00:34.32,0:00:39.99,Sign,,0,0,0,,{合わせ鏡映す}映在对镜之中{really no clue what's this about - opposite/facing/matching mirror reflects/shows}
+Dialogue: 0,0:00:39.99,0:00:46.96,Sign,,0,0,0,,{迷路のなか　見つめれば}仿佛凝视迷宫般{still no clue}
+Dialogue: 0,0:00:46.96,0:00:55.18,Sign,,0,0,0,,{不思議ね　イマージュ - 時のミラーシュ}奇妙的景象-时间的海市蜃楼
+Dialogue: 0,0:00:56.30,0:01:01.89,Sign,,0,0,0,,{もうひとりの私が}另一个我
+Dialogue: 0,0:01:01.89,0:01:10.11,Sign,,0,0,0,,{心の奥に生きているの}在我的心灵深处栖息
+Dialogue: 0,0:01:11.15,0:01:16.41,Sign,,0,0,0,,{空夢のように}宛如飘渺的{/empty} 梦境
+Dialogue: 0,0:01:18.49,0:01:23.00,Sign,,0,0,0,,{ひとりじゃないよと}"你并不孤单" -
+Dialogue: 0,0:01:24.46,0:01:27.21,Sign,,0,0,0,,{ささやいて}低语着
+Dialogue: 0,0:01:30.25,0:01:32.88,Sign,,0,0,0,,塞比尔村 {ゼービュール村}{im taking names from the book because if we hear them say this german way, writing Bohrlaken would be discrepant}
+Dialogue: 0,0:01:41.14,0:01:44.81,Sign,,0,0,0,,比尔湖 {ビュールゼー湖}
+Dialogue: 0,0:01:45.64,0:01:47.08,Default,,0,0,0,,好平静啊.{/calm}
 Dialogue: 0,0:01:47.08,0:01:49.76,Default,,0,0,0,,No better place to spend your holiday than the countryside.{ after all}{unsure what they mean as kagiru is "limit/boundary"}
 Dialogue: 0,0:01:49.76,0:01:52.14,Default,,0,0,0,,Let's change the point from our usual one today.{unsure, I think they call point the spot where they do fishing}
 Dialogue: 0,0:01:57.51,0:01:59.04,Default,,0,0,0,,What's with those children?
-Dialogue: 0,0:01:59.04,0:02:00.95,Default,,0,0,0,,Girls from Viennese{hope that the meaning of this wuinne} elementary schools.
+Dialogue: 0,0:01:59.04,0:02:00.95,Default,,0,0,0,,来自维也纳的{hope that the meaning of this wuinne} 小学生
 Dialogue: 0,0:02:00.95,0:02:02.49,Default,,0,0,0,,They are living in a summer camp.{I hope this is the meaning of "children's house"}
 Dialogue: 0,0:02:02.49,0:02:03.87,Default,,0,0,0,,Summer camp?
 Dialogue: 0,0:02:03.87,0:02:08.79,Default,,0,0,0,,Girls from various school come together \Nto spend their vacation here.
