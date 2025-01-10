@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 01.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Scroll Position: 15
-Active Line: 20
+Scroll Position: 27
+Active Line: 37
 Video Position: 6818
 
 [V4+ Styles]
@@ -42,27 +42,27 @@ Dialogue: 0,0:01:24.46,0:01:27.21,Sign,,0,0,0,,{ささやいて}低语着
 Dialogue: 0,0:01:30.25,0:01:32.88,Sign,,0,0,0,,塞比尔村 {ゼービュール村}{im taking names from the book because if we hear them say this german way, writing Bohrlaken would be discrepant}
 Dialogue: 0,0:01:41.14,0:01:44.81,Sign,,0,0,0,,比尔湖 {ビュールゼー湖}
 Dialogue: 0,0:01:45.64,0:01:47.08,Default,,0,0,0,,好平静啊.{/calm}
-Dialogue: 0,0:01:47.08,0:01:49.76,Default,,0,0,0,,No better place to spend your holiday than the countryside.{ after all}{unsure what they mean as kagiru is "limit/boundary"}
-Dialogue: 0,0:01:49.76,0:01:52.14,Default,,0,0,0,,Let's change the point from our usual one today.{unsure, I think they call point the spot where they do fishing}
-Dialogue: 0,0:01:57.51,0:01:59.04,Default,,0,0,0,,What's with those children?
+Dialogue: 0,0:01:47.08,0:01:49.76,Default,,0,0,0,,假期果然还是要在乡村度过.{ after all}{unsure what they mean as kagiru is "limit/boundary"}
+Dialogue: 0,0:01:49.76,0:01:52.14,Default,,0,0,0,,不要在重复我们平常都会讲的话了.{unsure, I think they call point the spot where they do fishing}
+Dialogue: 0,0:01:57.51,0:01:59.04,Default,,0,0,0,,那些小孩子是？
 Dialogue: 0,0:01:59.04,0:02:00.95,Default,,0,0,0,,来自维也纳的{hope that the meaning of this wuinne} 小学生
-Dialogue: 0,0:02:00.95,0:02:02.49,Default,,0,0,0,,They are living in a summer camp.{I hope this is the meaning of "children's house"}
-Dialogue: 0,0:02:02.49,0:02:03.87,Default,,0,0,0,,Summer camp?
-Dialogue: 0,0:02:03.87,0:02:08.79,Default,,0,0,0,,Girls from various school come together \Nto spend their vacation here.
-Dialogue: 0,0:02:09.71,0:02:13.94,Default,,0,0,0,,There, that red-roofed building{ over there} is where they live.
-Dialogue: 0,0:02:15.91,0:02:21.02,Default,,0,0,0,,One way or another, they are making a lot of fuss. \NEnough to make this point unfit for fishing.
-Dialogue: 0,0:02:21.47,0:02:24.64,Default,,0,0,0,,Precisely. We'd be better off someplace away from them.{/on the opposite side}
-Dialogue: 0,0:02:24.64,0:02:26.82,Default,,0,0,0,,For an urbanite, you reasoning is quite sound.{no clue what he means by "for a city dweller, good feeling/sensation"}
-Dialogue: 0,0:02:26.82,0:02:28.38,Default,,0,0,0,,Hey-hey, I'm not that stupid! {/can't be jesting that much}
-Dialogue: 0,0:02:30.67,0:02:35.72,Sign,,0,0,116,,{\c&HD2E6F0&\bord0\blur1\xshad2}Episode 1 \N{出会い} {\fs55} Meeting
-Dialogue: 0,0:02:38.11,0:02:41.55,Default,,0,0,0,,Everyone, let's get out of the water \Nand have a little break!
-Dialogue: 0,0:02:51.21,0:02:52.24,Default,,0,0,0,,Where is Luise?
-Dialogue: 0,0:02:52.24,0:02:54.34,Default,,0,0,0,,We were swimming over there just a moment ago...
-Dialogue: 0,0:02:54.97,0:02:58.32,Default,,0,0,0,,Luise Palfy{here, I take names from english version instead because they sound better in english}! Hurry up to the shore!
-Dialogue: 0,0:03:01.82,0:03:02.63,Default,,0,0,0,,Don't tell me...
-Dialogue: 0,0:03:03.26,0:03:04.46,Default,,0,0,0,,Luise!
-Dialogue: 0,0:03:04.46,0:03:05.18,Default,,0,0,0,,Yes?
-Dialogue: 0,0:03:05.51,0:03:07.46,Default,,0,0,0,,Luise... Why did you do that?
+Dialogue: 0,0:02:00.95,0:02:02.49,Default,,0,0,0,,他们正在夏令营，{I hope this is the meaning of "children's house"，我也希望这个能表达出儿童之家的意思}
+Dialogue: 0,0:02:02.49,0:02:03.87,Default,,0,0,0,,夏令营？
+Dialogue: 0,0:02:03.87,0:02:08.79,Default,,0,0,0,,来自不同学校的学生在这里 \N一起度过她们的假期
+Dialogue: 0,0:02:09.71,0:02:13.94,Default,,0,0,0,,看，那个红屋顶的建筑，就是她们居住的地方。
+Dialogue: 0,0:02:15.91,0:02:21.02,Default,,0,0,0,,不管怎样，他们太吵闹了，\N至少这个地方不再适合钓鱼了。
+Dialogue: 0,0:02:21.47,0:02:24.64,Default,,0,0,0,,是这样的，小女孩们会反对的吧。{/on the opposite side}
+Dialogue: 0,0:02:24.64,0:02:26.82,Default,,0,0,0,,对于城市人来说，遇到这种热闹的景象还不错。no clue what he means by "for a city dweller, good feeling/sensation"，可能是这个意思？}
+Dialogue: 0,0:02:26.82,0:02:28.38,Default,,0,0,0,,喂喂，差不多得了{/can't be jesting that much}
+Dialogue: 0,0:02:30.67,0:02:35.72,Sign,,0,0,116,,{\c&HD2E6F0&\bord0\blur1\xshad2}Episode 1 \N{出会い} {\fs55} 邂逅
+Dialogue: 0,0:02:38.11,0:02:41.55,Default,,0,0,0,,孩子们，别玩水了，稍微休息一下吧！
+Dialogue: 0,0:02:51.21,0:02:52.24,Default,,0,0,0,,路易斯在哪里？
+Dialogue: 0,0:02:52.24,0:02:54.34,Default,,0,0,0,,刚才还在一起游泳呢···
+Dialogue: 0,0:02:54.97,0:02:58.32,Default,,0,0,0,,路易丝·帕尔菲！{here, I take names from english version instead because they sound better in english}快到岸边来！
+Dialogue: 0,0:03:01.82,0:03:02.63,Default,,0,0,0,,难道说？
+Dialogue: 0,0:03:03.26,0:03:04.46,Default,,0,0,0,,路易斯！
+Dialogue: 0,0:03:04.46,0:03:05.18,Default,,0,0,0,,我在。
+Dialogue: 0,0:03:05.51,0:03:07.46,Default,,0,0,0,,露易丝···你在干什么？
 Dialogue: 0,0:03:10.59,0:03:14.11,Default,,0,0,0,,You shouldn't be fooling around in the lake, \Nhow many times did I tell you?
 Dialogue: 0,0:03:14.11,0:03:17.13,Default,,0,0,0,,But I wasn't fooling around, Fraulein Ulrica.
 Dialogue: 0,0:03:17.13,0:03:20.31,Default,,0,0,0,,Merely practicing to better hold my breath underwater.{rather she says "was checking out for how long can my breath last, practicing"}
