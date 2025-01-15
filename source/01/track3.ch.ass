@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 01.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Scroll Position: 27
-Active Line: 37
+Scroll Position: 84
+Active Line: 95
 Video Position: 6818
 
 [V4+ Styles]
@@ -63,64 +63,64 @@ Dialogue: 0,0:03:01.82,0:03:02.63,Default,,0,0,0,,难道说？
 Dialogue: 0,0:03:03.26,0:03:04.46,Default,,0,0,0,,路易斯！
 Dialogue: 0,0:03:04.46,0:03:05.18,Default,,0,0,0,,我在。
 Dialogue: 0,0:03:05.51,0:03:07.46,Default,,0,0,0,,露易丝···你在干什么？
-Dialogue: 0,0:03:10.59,0:03:14.11,Default,,0,0,0,,You shouldn't be fooling around in the lake, \Nhow many times did I tell you?
-Dialogue: 0,0:03:14.11,0:03:17.13,Default,,0,0,0,,But I wasn't fooling around, Fraulein Ulrica.
-Dialogue: 0,0:03:17.13,0:03:20.31,Default,,0,0,0,,Merely practicing to better hold my breath underwater.{rather she says "was checking out for how long can my breath last, practicing"}
-Dialogue: 0,0:03:20.31,0:03:23.87,Default,,0,0,0,,Luise, I'm well aware of your fondness \Nfor challenging others' authority{/pushing your boundaries}.{rather the eexact meaning is inquisitive mind; spirit of inquiry; spirit of enquiry but I'm deviating here to make it sound more consequent}
-Dialogue: 0,0:03:23.87,0:03:25.40,Default,,0,0,0,,Come on, get on the shore now.
+Dialogue: 0,0:03:10.59,0:03:14.11,Default,,0,0,0,,不要再水里面闲逛， \N我告诉你多少次了？
+Dialogue: 0,0:03:14.11,0:03:17.13,Default,,0,0,0,,我没有在闲逛，乌尔丽卡老师。
+Dialogue: 0,0:03:17.13,0:03:20.31,Default,,0,0,0,,只是练习如何在水下更好的屏住呼吸。{rather she says "was checking out for how long can my breath last, practicing"}
+Dialogue: 0,0:03:20.31,0:03:23.87,Default,,0,0,0,,露易丝，我很明白你的好奇心。{/pushing your boundaries}.{rather the eexact meaning is inquisitive mind; spirit of inquiry; spirit of enquiry but I'm deviating here to make it sound more consequent}
+Dialogue: 0,0:03:23.87,0:03:25.40,Default,,0,0,0,,但是现在请赶快回到岸边去。
 Dialogue: 0,0:03:25.40,0:03:26.02,Default,,0,0,0,,Okay.
-Dialogue: 0,0:03:35.75,0:03:36.71,Default,,0,0,0,,I'm bored.
-Dialogue: 0,0:03:36.71,0:03:40.67,Default,,0,0,0,,It didn't change one bit this year either, \Nthis Seebühl Village.
-Dialogue: 0,0:03:40.67,0:03:41.84,Default,,0,0,0,,But it's so serene.
-Dialogue: 0,0:03:41.84,0:03:45.32,Default,,0,0,0,,Maybe even too quiet! \NIt becomes outright eerie when night comes.
-Dialogue: 0,0:03:45.62,0:03:50.64,Default,,0,0,0,,Monica is saying that because she misses her mom from Vienna greatly and spent last evening sobbing in her bed!{I don't know what is has to do with previous line}
-Dialogue: 0,0:03:50.64,0:03:52.99,Default,,0,0,0,,Lies! All lies! Don't believe it, people!
-Dialogue: 0,0:03:53.63,0:03:55.47,Default,,0,0,0,,Monica is still so dependent.{/spoiled/child who always demands attention}
-Dialogue: 0,0:03:55.47,0:03:58.78,Default,,0,0,0,,I, in turn, am enjoying a break \Nfrom my annoying mom's attention!
-Dialogue: 0,0:03:58.78,0:04:01.70,Default,,0,0,0,,Look, Christine, you're much prettier this way.
-Dialogue: 0,0:04:01.70,0:04:03.60,Default,,0,0,0,,You think so? But it's a pain to weave.{I hope this is what she means by trouble; difficulty - I can't be bothered to do it}
-Dialogue: 0,0:04:03.60,0:04:04.89,Default,,0,0,0,,I can do it for you.{I hope she means this and not "I'm doing this for myself"}
-Dialogue: 0,0:04:05.99,0:04:08.17,Default,,0,0,0,,Hey Luise, let's give you a braid, too!
-Dialogue: 0,0:04:08.17,0:04:08.70,Default,,0,0,0,,No way!
-Dialogue: 0,0:04:08.70,0:04:10.81,Default,,0,0,0,,Not making use of such great hair is a crime!{/it's a waste to have such beautiful hair through such pains}
-Dialogue: 0,0:04:10.81,0:04:11.56,Default,,0,0,0,,Stop it!
-Dialogue: 0,0:04:14.26,0:04:17.08,Default,,0,0,0,,Okay, everyone, you can go swim again.{/enter the water}
-Dialogue: 0,0:04:16.42,0:04:17.08,Default,,0,0,0,,Let's go!
-Dialogue: 0,0:04:17.54,0:04:18.39,Default,,0,0,0,,Wait!
-Dialogue: 0,0:04:18.39,0:04:20.58,Default,,0,0,0,,Sure is snappish, our Luise.{/short tempered}
-Dialogue: 0,0:04:20.58,0:04:21.97,Default,,0,0,0,,She is actually very kind.{im not sure what she means by "but a totally good girl"}
-Dialogue: 0,0:04:21.97,0:04:24.68,Default,,0,0,0,,Having spent my whole life \Nin the same class, I know for sure -
-Dialogue: 0,0:04:24.68,0:04:28.47,Default,,0,0,0,,she is bristling against others doing her hair, \Nbecause it's not in her habit, that's all.{/she hates it when others are messing/fiddling with ... because she never had anyone doing it for her i'm sure}
-Dialogue: 0,0:04:28.47,0:04:29.71,Default,,0,0,0,,Not in her habit?
-Dialogue: 0,0:04:30.65,0:04:32.94,Default,,0,0,0,,She had to grow up without a mom.
-Dialogue: 0,0:04:34.27,0:04:35.90,Default,,0,0,0,,Yet you'd never tell by the looks.{/she looks nothing like that}
-Dialogue: 0,0:04:36.55,0:04:38.38,Default,,0,0,0,,But her dad is a real big fish!
-Dialogue: 0,0:04:38.38,0:04:41.85,Default,,0,0,0,,A famous composer, \Nand a head conductor of the Vienna Philharmonic.
-Dialogue: 0,0:04:41.85,0:04:44.35,Default,,0,0,0,,Everyone in our school knows about that.{/very famous in our school}
-Dialogue: 0,0:04:44.35,0:04:47.95,Default,,0,0,0,,And if you try to ridicule her dad, \Nshe's not letting it slide!{/those who tease her for her dad are in big trouble}
-Dialogue: 0,0:04:47.95,0:04:49.39,Default,,0,0,0,,Might even slap you.
-Dialogue: 0,0:04:53.41,0:04:56.40,Default,,0,0,0,,Come on, hurry up and change. \NIt's almost lunchtime.{I hope it's what she means by saying it's noon}
-Dialogue: 0,0:04:57.60,0:04:59.34,Default,,0,0,0,,Make sure no one's left behind!{minna e? yuugae? ugai? wasurenaide - no clue what's the first word}
-Dialogue: 0,0:05:04.16,0:05:06.49,Default,,0,0,0,,Now, now, a minute of your attention please.
-Dialogue: 0,0:05:06.49,0:05:09.26,Default,,0,0,0,,Frau Muthesius{found in the book} has something to tell to you.
-Dialogue: 0,0:05:10.30,0:05:12.58,Default,,0,0,0,,I want you all to listen to me while you eat.
-Dialogue: 0,0:05:12.58,0:05:15.11,Default,,0,0,0,,This afternoon, we expect more of our friends to arrive.
-Dialogue: 0,0:05:15.11,0:05:17.60,Default,,0,0,0,,Twenty new girls from elementary schools of Munich.
-Dialogue: 0,0:05:17.60,0:05:18.74,Default,,0,0,0,,Munich?
-Dialogue: 0,0:05:18.74,0:05:20.04,Default,,0,0,0,,Twenty of them!{/isn't it}
-Dialogue: 0,0:05:20.04,0:05:23.68,Default,,0,0,0,,Within this summer camp, \Nyou are all to become their temporary mentors.
-Dialogue: 0,0:05:23.68,0:05:27.33,Default,,0,0,0,,Please introduce them to our way of life \Nwith all due geniality.{/kindly teach them various things}
-Dialogue: 0,0:05:27.33,0:05:32.95,Default,,0,0,0,,We want you to start getting along soon, learn about their towns and schools and tell them about yours.{/exchange/tell and listen about each other's ...}
-Dialogue: 0,0:05:32.95,0:05:35.57,Default,,0,0,0,,Let us all enjoy this summer vacation together.
-Dialogue: 0,0:05:35.57,0:05:36.40,Default,,0,0,0,,I'm finished.
-Dialogue: 0,0:05:36.40,0:05:39.28,Default,,0,0,0,,Girls from Munich. \NI wonder if they are a lot different from us.{/what kind of girls}
-Dialogue: 0,0:05:39.28,0:05:41.51,Default,,0,0,0,,I would just be happy \Nif they are not ill-tempered.{/rude/bullies}
-Dialogue: 0,0:05:41.51,0:05:46.38,Default,,0,0,0,,Have nothing to fear, Stephie.{this one is Stephiee both in german and english versions but without e it sounds closer to japanese} \NIf anyone tries to mess with you, I'll show them their place.{/I won't allow/forgive it}
-Dialogue: 0,0:05:46.38,0:05:49.89,Default,,0,0,0,,More importantly, you think they'll bring along \Nanything interesting to play with?{unsure what to make of 遊び道具 here, maybe sports equipment?}
-Dialogue: 0,0:05:49.89,0:05:52.06,Default,,0,0,0,,That's right, maybe a big new ball?
-Dialogue: 0,0:05:52.06,0:05:54.17,Default,,0,0,0,,Mine one started leaking air recently.{/letting out/deflating}
-Dialogue: 0,0:05:54.17,0:05:56.92,Default,,0,0,0,,If you need a ball, \Ncan't you borrow Brigitte's one?{/speaking of balls, did'nt ... have one}{from german ver, didn't check english one}
-Dialogue: 0,0:05:59.25,0:06:03.48,Default,,0,0,0,,That one is a dead end.{rather, she says "you can't rely on that person"} \NShe shut it in a locker and hid the key.{kagi wo kakechatta seems to mean just "lock with a/turn the key" but this sounds bad with one lock already present in the sentence}
+Dialogue: 0,0:03:35.75,0:03:36.71,Default,,0,0,0,,有点无聊。
+Dialogue: 0,0:03:36.71,0:03:40.67,Default,,0,0,0,,今年也没有任何的改变，\N这个塞比尔村。
+Dialogue: 0,0:03:40.67,0:03:41.84,Default,,0,0,0,,如此平静啊。
+Dialogue: 0,0:03:41.84,0:03:45.32,Default,,0,0,0,,也许太安静了！ \N夜幕降临时可能会有点可怕。
+Dialogue: 0,0:03:45.62,0:03:50.64,Default,,0,0,0,,莫妮卡这么说是因为她非常想念来自维也纳的妈妈，昨晚在床上哭泣！
+Dialogue: 0,0:03:50.64,0:03:52.99,Default,,0,0,0,,胡说胡说，大家不要相信她。
+Dialogue: 0,0:03:53.63,0:03:55.47,Default,,0,0,0,,莫妮卡还是很依赖妈妈啊。{/spoiled/child who always demands attention}
+Dialogue: 0,0:03:55.47,0:03:58.78,Default,,0,0,0,,我就不一样了，我很高兴能够远离我烦人的妈妈了。
+Dialogue: 0,0:03:58.78,0:04:01.70,Default,,0,0,0,,看，克莉丝汀，你这样漂亮多了。
+Dialogue: 0,0:04:01.70,0:04:03.60,Default,,0,0,0,,你这么认为吗？但编织起来太痛苦了。{I hope this is what she means by trouble; difficulty - I can't be bothered to do it}
+Dialogue: 0,0:04:03.60,0:04:04.89,Default,,0,0,0,,我可以为你做这些。{I hope she means this and not "I'm doing this for myself"}
+Dialogue: 0,0:04:05.99,0:04:08.17,Default,,0,0,0,,嘿，露易丝，我们也给你编辫子吧。
+Dialogue: 0,0:04:08.17,0:04:08.70,Default,,0,0,0,,不要!
+Dialogue: 0,0:04:08.70,0:04:10.81,Default,,0,0,0,,如何美丽的头发得不到打理真是犯罪。{/it's a waste to have such beautiful hair through such pains}
+Dialogue: 0,0:04:10.81,0:04:11.56,Default,,0,0,0,,不要。
+Dialogue: 0,0:04:14.26,0:04:17.08,Default,,0,0,0,,好的，各位可以再去游泳了。{/enter the water}
+Dialogue: 0,0:04:16.42,0:04:17.08,Default,,0,0,0,,走吧。
+Dialogue: 0,0:04:17.54,0:04:18.39,Default,,0,0,0,,等等我。
+Dialogue: 0,0:04:18.39,0:04:20.58,Default,,0,0,0,,露易丝性子有点急啊。{/short tempered}
+Dialogue: 0,0:04:20.58,0:04:21.97,Default,,0,0,0,,但是实际上是很善良的人。{im not sure what she means by "but a totally good girl"}
+Dialogue: 0,0:04:21.97,0:04:24.68,Default,,0,0,0,,一直和她在同一个班上\Ni我对她很了解的
+Dialogue: 0,0:04:24.68,0:04:28.47,Default,,0,0,0,,\N她讨厌别人帮她做头发，N一定是因为没有这个习惯。{/she hates it when others are messing/fiddling with ... because she never had anyone doing it for her i'm sure}
+Dialogue: 0,0:04:28.47,0:04:29.71,Default,,0,0,0,,没有这个习惯？
+Dialogue: 0,0:04:30.65,0:04:32.94,Default,,0,0,0,,她小时候就没有母亲。
+Dialogue: 0,0:04:34.27,0:04:35.90,Default,,0,0,0,,这点完全看不出来欸。{/she looks nothing like that}
+Dialogue: 0,0:04:36.55,0:04:38.38,Default,,0,0,0,,但是她的爸爸真是一个大人物！
+Dialogue: 0,0:04:38.38,0:04:41.85,Default,,0,0,0,,著名作曲家，维也纳爱乐乐团首席指挥。
+Dialogue: 0,0:04:41.85,0:04:44.35,Default,,0,0,0,,在我们的学校中非常有名。{/very famous in our school}
+Dialogue: 0,0:04:44.35,0:04:47.95,Default,,0,0,0,,如果你想要取笑她的父亲，\N将会有大麻烦的。{/those who tease her for her dad are in big trouble}
+Dialogue: 0,0:04:47.95,0:04:49.39,Default,,0,0,0,,甚至可能打你一巴掌。
+Dialogue: 0,0:04:53.41,0:04:56.40,Default,,0,0,0,,快点换下衣服，\NIt's almost lunchtime.{I hope it's what she means by saying it's noon}
+Dialogue: 0,0:04:57.60,0:04:59.34,Default,,0,0,0,,大家不要忘记。{minna e? yuugae? ugai? wasurenaide - no clue what's the first word，是这句话吗：皆忘れないで？}
+Dialogue: 0,0:05:04.16,0:05:06.49,Default,,0,0,0,,好啦，现在请大家注意一下。
+Dialogue: 0,0:05:06.49,0:05:09.26,Default,,0,0,0,,穆特修斯夫人{found in the book} 有话要对你们说。
+Dialogue: 0,0:05:10.30,0:05:12.58,Default,,0,0,0,,各位可以一边吃一边听。
+Dialogue: 0,0:05:12.58,0:05:15.11,Default,,0,0,0,,今天下午，预计会有新的朋友要来。
+Dialogue: 0,0:05:15.11,0:05:17.60,Default,,0,0,0,,来自慕尼黑小学的20名新女孩。
+Dialogue: 0,0:05:17.60,0:05:18.74,Default,,0,0,0,,慕尼黑？
+Dialogue: 0,0:05:18.74,0:05:20.04,Default,,0,0,0,,二十人呢！{/isn't it}
+Dialogue: 0,0:05:20.04,0:05:23.68,Default,,0,0,0,,在这个夏令营中，\N你们将成为她们的导师。
+Dialogue: 0,0:05:23.68,0:05:27.33,Default,,0,0,0,,请亲切地教导我们的生活方式。{/kindly teach them various things}
+Dialogue: 0,0:05:27.33,0:05:32.95,Default,,0,0,0,,我希望你们能尽快开始相处，并互相了解彼此的城镇和大学。{/exchange/tell and listen about each other's ...}
+Dialogue: 0,0:05:32.95,0:05:35.57,Default,,0,0,0,,一起度过一个愉快的暑假。
+Dialogue: 0,0:05:35.57,0:05:36.40,Default,,0,0,0,,我想说的就是这些。
+Dialogue: 0,0:05:36.40,0:05:39.28,Default,,0,0,0,,来自慕尼黑的女孩，\N想知道她们是怎样的女孩们。{/what kind of girls}
+Dialogue: 0,0:05:39.28,0:05:41.51,Default,,0,0,0,,我只希望没有什么坏孩子。{/rude/bullies}
+Dialogue: 0,0:05:41.51,0:05:46.38,Default,,0,0,0,,别担心，斯蒂芬，{this one is Stephiee both in german and english versions but without e it sounds closer to japanese} \N如果她们惹你，我是不会原谅她们的。{/I won't allow/forgive it}
+Dialogue: 0,0:05:46.38,0:05:49.89,Default,,0,0,0,,更重要的是，她们可能会带来一些有趣的东西。{unsure what to make of 遊び道具 here, maybe sports equipment?}
+Dialogue: 0,0:05:49.89,0:05:52.06,Default,,0,0,0,,没错，像一个大球什么的？
+Dialogue: 0,0:05:52.06,0:05:54.17,Default,,0,0,0,,我的一个最近开始漏气了。{/letting out/deflating}
+Dialogue: 0,0:05:54.17,0:05:56.92,Default,,0,0,0,,说到球的话，为什么不借布丽吉特的呢？
+Dialogue: 0,0:05:59.25,0:06:03.48,Default,,0,0,0,,这个人肯定会不同意的，{rather, she says "you can't rely on that person"} \N她把球放在储物柜里面并把钥匙藏起来了。{kagi wo kakechatta seems to mean just "lock with a/turn the key" but this sounds bad with one lock already present in the sentence}
 Dialogue: 0,0:06:03.48,0:06:05.52,Default,,0,0,0,,Because it's a brand new item!{/I only/barely bought it}
 Dialogue: 0,0:06:05.52,0:06:08.15,Default,,0,0,0,,Can't lend it to someone as barbaric \Nas Luise or her friends.{/violent}
 Dialogue: 0,0:06:09.71,0:06:10.71,Default,,0,0,0,,Miser girl!
