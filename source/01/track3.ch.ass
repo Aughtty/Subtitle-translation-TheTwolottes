@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 01.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Scroll Position: 84
-Active Line: 95
+Scroll Position: 156
+Active Line: 169
 Video Position: 6818
 
 [V4+ Styles]
@@ -121,80 +121,80 @@ Dialogue: 0,0:05:49.89,0:05:52.06,Default,,0,0,0,,没错，像一个大球什么
 Dialogue: 0,0:05:52.06,0:05:54.17,Default,,0,0,0,,我的一个最近开始漏气了。{/letting out/deflating}
 Dialogue: 0,0:05:54.17,0:05:56.92,Default,,0,0,0,,说到球的话，为什么不借布丽吉特的呢？
 Dialogue: 0,0:05:59.25,0:06:03.48,Default,,0,0,0,,这个人肯定会不同意的，{rather, she says "you can't rely on that person"} \N她把球放在储物柜里面并把钥匙藏起来了。{kagi wo kakechatta seems to mean just "lock with a/turn the key" but this sounds bad with one lock already present in the sentence}
-Dialogue: 0,0:06:03.48,0:06:05.52,Default,,0,0,0,,Because it's a brand new item!{/I only/barely bought it}
-Dialogue: 0,0:06:05.52,0:06:08.15,Default,,0,0,0,,Can't lend it to someone as barbaric \Nas Luise or her friends.{/violent}
-Dialogue: 0,0:06:09.71,0:06:10.71,Default,,0,0,0,,Miser girl!
-Dialogue: 0,0:06:11.41,0:06:13.77,Default,,0,0,0,,Let's hope they bring along some new game.
-Dialogue: 0,0:06:13.77,0:06:17.83,Default,,0,0,0,,There {\i1}should{\i0} be at least one!\N Let's make friends with them to start playing it soon! {/someone surely has, let's hurry up to become friends and play together}
-Dialogue: 0,0:06:35.10,0:06:36.53,Default,,0,0,0,,There's the bus! Bus is coming!
-Dialogue: 0,0:06:47.90,0:06:50.60,Default,,0,0,0,,Well, this is your stop, young Frauleins.{/we've arrived}
-Dialogue: 0,0:06:52.74,0:06:55.47,Default,,0,0,0,,Careful! That seems like a lot of heavy luggage on you.{unsure what he means by everyone's luggage is heavy}
-Dialogue: 0,0:06:55.47,0:06:57.84,Default,,0,0,0,,There, let me help you with this, heigh-ho.
-Dialogue: 0,0:06:57.84,0:07:00.24,Default,,0,0,0,,Yes, and you too, there you go.
-Dialogue: 0,0:07:00.24,0:07:01.63,Default,,0,0,0,,Yes, careful, like that.
-Dialogue: 0,0:07:01.63,0:07:04.65,Default,,0,0,0,,Hey, hey, look there! \NThis girl is carrying a ball!
-Dialogue: 0,0:07:04.65,0:07:07.13,Default,,0,0,0,,I hope someone brings a set for playing bagatelle!{コリントゲーム - Corinth game / Corinthian bagatelle - usually I'd keep "corinth game" but here it's not distinctively wasei and besides, hadly anyone knows about either versions of this game; unsure what's ban}
-Dialogue: 0,0:07:11.94,0:07:13.25,Default,,0,0,0,,Enjoy your holiday.
-Dialogue: 0,0:07:13.25,0:07:14.22,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:07:17.09,0:07:18.02,Default,,0,0,0,,Good afternoon!
-Dialogue: 0,0:07:18.02,0:07:20.05,Default,,0,0,0,,Good afternoon. \NYou come from Munich, right?
-Dialogue: 0,0:07:20.05,0:07:21.98,Default,,0,0,0,,Yes. Mind showing us the way to the dorms?
-Dialogue: 0,0:07:21.98,0:07:22.98,Default,,0,0,0,,Follow me!
-Dialogue: 0,0:07:22.98,0:07:23.77,Default,,0,0,0,,Good afternoon!
-Dialogue: 0,0:07:23.77,0:07:24.94,Default,,0,0,0,,Good afternoon.
-Dialogue: 0,0:07:35.95,0:07:38.09,Default,,0,0,0,,One of the Frauleins got left behind?{/one more}
-Dialogue: 0,0:07:38.09,0:07:39.88,Default,,0,0,0,,Something's wrong, little one?
-Dialogue: 0,0:07:40.26,0:07:42.90,Default,,0,0,0,,I stayed behind to see \Nthat nobody forgets anything.{/was checking if ...}
-Dialogue: 0,0:07:42.90,0:07:45.87,Default,,0,0,0,,That is very thoughtful of you. \NNow, your hand... {/climb down}
-Dialogue: 0,0:07:55.09,0:07:57.19,Default,,0,0,0,,Oh my, what did you do to your hair?{very general question, may be anything - why are you here}
-Dialogue: 0,0:07:58.56,0:08:03.14,Default,,0,0,0,,Usually bristling against others doing your hair, \Nsuddenly you are wearing pigtails?{/you're supposed to hate it when other mess with your hair, but what's with those braids?}
-Dialogue: 0,0:08:05.04,0:08:07.66,Default,,0,0,0,,Hey, next time you want them braided, \Nlet me do it for you.
-Dialogue: 0,0:08:10.13,0:08:10.62,Default,,0,0,0,,Wait!{guess}
-Dialogue: 0,0:08:12.11,0:08:12.65,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:08:12.65,0:08:15.35,Default,,0,0,0,,Truda!{english version has it trudie which i don't mind too} Did girls from Munich arrive already?
-Dialogue: 0,0:08:16.12,0:08:16.92,Default,,0,0,0,,Luise?
-Dialogue: 0,0:08:16.92,0:08:18.83,Default,,0,0,0,,What is it? Something happened?
-Dialogue: 0,0:08:18.83,0:08:19.62,Default,,0,0,0,,It's just...{/because}
-Dialogue: 0,0:08:29.76,0:08:32.26,Default,,0,0,0,,Well, I'll be... What's this? {/really what is this}
-Dialogue: 0,0:08:36.86,0:08:39.05,Default,,0,0,0,,What... What's going on?{/hot did this happen}
-Dialogue: 0,0:08:42.33,0:08:45.46,Default,,0,0,0,,Luise, should apologize first, at least!
-Dialogue: 0,0:08:45.90,0:08:47.25,Default,,0,0,0,,Unruly child.{/troublesome}
-Dialogue: 0,0:08:48.92,0:08:52.19,Default,,0,0,0,,Glad to see you're here.{/thanks for your work} \NAll girls but one checked in...{/however, you're one child short}
-Dialogue: 0,0:08:52.19,0:08:54.13,Default,,0,0,0,,Right. This one.{/there's this child}
-Dialogue: 0,0:09:00.28,0:09:02.84,Default,,0,0,0,,You're not Luise Palfy, are you?
-Dialogue: 0,0:09:07.37,0:09:10.60,Default,,0,0,0,,Truda, Luise... Find{/call} Luise, will you?
-Dialogue: 0,0:09:11.30,0:09:12.27,Default,,0,0,0,,This is urgent!{/hurry up}
-Dialogue: 0,0:09:17.22,0:09:19.28,Default,,0,0,0,,This is big, people! \NHear this, hear this!
-Dialogue: 0,0:09:19.28,0:09:22.90,Default,,0,0,0,,You wouldn't believe what has happened! \NI just saw Luise two!{/an unbelievable major incident occured, louse has become two}
-Dialogue: 0,0:09:23.75,0:09:24.63,Default,,0,0,0,,What are you saying?
-Dialogue: 0,0:09:24.63,0:09:25.64,Default,,0,0,0,,What does this mean?
-Dialogue: 0,0:09:35.17,0:09:38.11,Default,,0,0,0,,I'm more or less content \Nwith this proposed meal plan.{/generally, this 献立 is good - schedule of cooking/dishes or smt like that i think}
-Dialogue: 0,0:09:38.11,0:09:39.98,Default,,0,0,0,,However, just on this one day...
-Dialogue: 0,0:09:40.53,0:09:41.54,Default,,0,0,0,,Come in!
-Dialogue: 0,0:09:44.06,0:09:48.46,Default,,0,0,0,,Frau Muthesius, twenty new girls \Nfrom Munich have all safely arrived.
-Dialogue: 0,0:09:48.46,0:09:50.92,Default,,0,0,0,,Well, glad to know. Thank you.
-Dialogue: 0,0:09:51.59,0:09:55.50,Default,,0,0,0,,What I meant to say is, on this one day, \Nwe planned an outing for children.{/trip}
-Dialogue: 0,0:09:55.50,0:09:56.72,Default,,0,0,0,,There's something else...
-Dialogue: 0,0:09:56.72,0:09:57.45,Default,,0,0,0,,What is it?
-Dialogue: 0,0:09:57.45,0:09:59.94,Default,,0,0,0,,A peculiar thing concerning Luise Palfy.{/it's about ...}
-Dialogue: 0,0:10:01.74,0:10:03.81,Default,,0,0,0,,What kind of trick she pulled this time?
-Dialogue: 0,0:10:03.81,0:10:06.66,Default,,0,0,0,,No, it's not exactly something {\i1}she{\i0} did...
-Dialogue: 0,0:10:08.48,0:10:10.13,Default,,0,0,0,,Please enter now, you both.
-Dialogue: 0,0:10:12.36,0:10:14.55,Default,,0,0,0,,So what's this all about?
-Dialogue: 0,0:10:16.61,0:10:19.77,Default,,0,0,0,,Had I been wearing spectacles, \NI'd wipe them right about now!{/have my eyes finally gone bad}
-Dialogue: 0,0:10:21.17,0:10:25.20,Default,,0,0,0,,The one with the pigtails - \Narrived from Munich today, Lotte...
-Dialogue: 0,0:10:25.20,0:10:26.59,Default,,0,0,0,,Lotte Körner, Frau.{taking german variant here because it totally doesn't sound like horn and just writing kerena is a dick move}
-Dialogue: 0,0:10:26.59,0:10:30.06,Default,,0,0,0,,Like two beans in a pod, you two. \NAre you relatives, perchance?
-Dialogue: 0,0:10:32.08,0:10:34.53,Default,,0,0,0,,It seems, one had never met another up until today.
-Dialogue: 0,0:10:34.53,0:10:36.51,Default,,0,0,0,,What a puzzling turn of events...
-Dialogue: 0,0:10:36.51,0:10:40.19,Default,,0,0,0,,How is it puzzling?{unsure what exactly she means} \NThat's just the most natural thing.
-Dialogue: 0,0:10:40.19,0:10:43.94,Default,,0,0,0,,One was brought up in Vienna, \Nthe other was brought up in Munich.
-Dialogue: 0,0:10:44.60,0:10:46.24,Default,,0,0,0,,That's not what I find puzzling.{/I didn't mean that}
-Dialogue: 0,0:10:46.24,0:10:49.23,Default,,0,0,0,,Either way, let's not make too big a fuss over it.
-Dialogue: 0,0:10:54.22,0:10:55.56,Default,,0,0,0,,A striking resemblance.{/really alike}
-Dialogue: 0,0:10:55.56,0:10:58.23,Default,,0,0,0,,Two girls so alike are bound to make good friends!
-Dialogue: 0,0:10:58.23,0:10:59.36,Default,,0,0,0,,I'm sure of it.
-Dialogue: 0,0:10:59.36,0:11:00.47,Default,,0,0,0,,Never!
+Dialogue: 0,0:06:03.48,0:06:05.52,Default,,0,0,0,,因为这是刚买的！{/I only/barely bought it}
+Dialogue: 0,0:06:05.52,0:06:08.15,Default,,0,0,0,,不会借给露易丝之类野蛮的人。
+Dialogue: 0,0:06:09.71,0:06:10.71,Default,,0,0,0,,小气！
+Dialogue: 0,0:06:11.41,0:06:13.77,Default,,0,0,0,,我希望她们能带来新游戏。{新しいゲームがあるといいわね。}
+Dialogue: 0,0:06:13.77,0:06:17.83,Default,,0,0,0,,肯定至少有一个，\N 让我们赶快和她们成为朋友一起玩吧！{/someone surely has, let's hurry up to become friends and play together}
+Dialogue: 0,0:06:35.10,0:06:36.53,Default,,0,0,0,,公共汽车来了！公共汽车来了！
+Dialogue: 0,0:06:47.90,0:06:50.60,Default,,0,0,0,,好了，到站了，女孩们。{/we've arrived}
+Dialogue: 0,0:06:52.74,0:06:55.47,Default,,0,0,0,,哎呀，各位都带了不少的行李啊。{unsure what he means by everyone's luggage is heavy}
+Dialogue: 0,0:06:55.47,0:06:57.84,Default,,0,0,0,,那么，我来帮你好吗。
+Dialogue: 0,0:06:57.84,0:07:00.24,Default,,0,0,0,,好的，你也是。
+Dialogue: 0,0:07:00.24,0:07:01.63,Default,,0,0,0,,小心点。
+Dialogue: 0,0:07:01.63,0:07:04.65,Default,,0,0,0,,快看快看！大家快看， \N那个女孩拿着球！
+Dialogue: 0,0:07:04.65,0:07:07.13,Default,,0,0,0,,我希望有人带一套科林斯小游戏。{コリントゲーム - Corinth game / Corinthian bagatelle - usually I'd keep "corinth game" but here it's not distinctively wasei and besides, hadly anyone knows about either versions of this game; unsure what's ban}
+Dialogue: 0,0:07:11.94,0:07:13.25,Default,,0,0,0,,假期愉快。
+Dialogue: 0,0:07:13.25,0:07:14.22,Default,,0,0,0,,谢谢你。
+Dialogue: 0,0:07:17.09,0:07:18.02,Default,,0,0,0,,下午好！
+Dialogue: 0,0:07:18.02,0:07:20.05,Default,,0,0,0,,下午好，\N你们是从慕尼黑来的，对吗？
+Dialogue: 0,0:07:20.05,0:07:21.98,Default,,0,0,0,,对的，接下来要去哪里为好呢？
+Dialogue: 0,0:07:21.98,0:07:22.98,Default,,0,0,0,,跟着我！
+Dialogue: 0,0:07:22.98,0:07:23.77,Default,,0,0,0,,下午好！
+Dialogue: 0,0:07:23.77,0:07:24.94,Default,,0,0,0,,下午好。
+Dialogue: 0,0:07:35.95,0:07:38.09,Default,,0,0,0,,还有一个？{/one more}
+Dialogue: 0,0:07:38.09,0:07:39.88,Default,,0,0,0,,出了什么事吗？小家伙。
+Dialogue: 0,0:07:40.26,0:07:42.90,Default,,0,0,0,,防止有人忘记了什么东西。
+Dialogue: 0,0:07:42.90,0:07:45.87,Default,,0,0,0,,你真是考虑周到啊，来，下车。
+Dialogue: 0,0:07:55.09,0:07:57.19,Default,,0,0,0,,哦，天哪，你的头发是怎么了？{very general question, may be anything - why are you here}
+Dialogue: 0,0:07:58.56,0:08:03.14,Default,,0,0,0,,你不是不喜欢别人弄你的头发吗？\N怎么现在扎起小辫子了？{/you're supposed to hate it when other mess with your hair, but what's with those braids?}
+Dialogue: 0,0:08:05.04,0:08:07.66,Default,,0,0,0,,嘿，下次你想编辫子的时候，\N让我来帮你编吧。
+Dialogue: 0,0:08:10.13,0:08:10.62,Default,,0,0,0,,等一下。
+Dialogue: 0,0:08:12.11,0:08:12.65,Default,,0,0,0,,抱歉。
+Dialogue: 0,0:08:12.65,0:08:15.35,Default,,0,0,0,,克露丝，{english version has it trudie which i don't mind too} 慕尼黑的同学们到了吗？
+Dialogue: 0,0:08:16.12,0:08:16.92,Default,,0,0,0,,露易丝？
+Dialogue: 0,0:08:16.92,0:08:18.83,Default,,0,0,0,,怎么了？发生什么了？
+Dialogue: 0,0:08:18.83,0:08:19.62,Default,,0,0,0,,就是···
+Dialogue: 0,0:08:29.76,0:08:32.26,Default,,0,0,0,,哦？这是什么情况？
+Dialogue: 0,0:08:36.86,0:08:39.05,Default,,0,0,0,,什么···怎么变成这样了？
+Dialogue: 0,0:08:42.33,0:08:45.46,Default,,0,0,0,,露易丝，至少要先说失礼了。
+Dialogue: 0,0:08:45.90,0:08:47.25,Default,,0,0,0,,麻烦的孩子。
+Dialogue: 0,0:08:48.92,0:08:52.19,Default,,0,0,0,,辛苦你了，{/thanks for your work} \N但是有一个孩子还没有登记。{/however, you're one child short}
+Dialogue: 0,0:08:52.19,0:08:54.13,Default,,0,0,0,,好的，这个孩子在这里。
+Dialogue: 0,0:09:00.28,0:09:02.84,Default,,0,0,0,,你不是露易丝·帕尔菲，对吗？
+Dialogue: 0,0:09:07.37,0:09:10.60,Default,,0,0,0,,特露达，麻烦找到露易丝，好吗？
+Dialogue: 0,0:09:11.30,0:09:12.27,Default,,0,0,0,,请快一点！
+Dialogue: 0,0:09:17.22,0:09:19.28,Default,,0,0,0,,发生大事了，家人们！ \N听我说，听我说。
+Dialogue: 0,0:09:19.28,0:09:22.90,Default,,0,0,0,,你不会相信发生了什么！\N我刚才看到有两个露易丝！{/an unbelievable major incident occured, louse has become two}
+Dialogue: 0,0:09:23.75,0:09:24.63,Default,,0,0,0,,你再说什么？
+Dialogue: 0,0:09:24.63,0:09:25.64,Default,,0,0,0,,什么意思？
+Dialogue: 0,0:09:35.17,0:09:38.11,Default,,0,0,0,,总体来说，\N这个用餐计划还不错。{/generally, this 献立 is good - schedule of cooking/dishes or smt like that i think}
+Dialogue: 0,0:09:38.11,0:09:39.98,Default,,0,0,0,,就是，这一天可能···
+Dialogue: 0,0:09:40.53,0:09:41.54,Default,,0,0,0,,请进。
+Dialogue: 0,0:09:44.06,0:09:48.46,Default,,0,0,0,,穆特修斯女士，来自慕尼黑的20个新同学已经安全到达。
+Dialogue: 0,0:09:48.46,0:09:50.92,Default,,0,0,0,,好，太好了，谢谢你。
+Dialogue: 0,0:09:51.59,0:09:55.50,Default,,0,0,0,,话说回来，在这一天，\N我为孩子们计划了一次郊游。{/trip}
+Dialogue: 0,0:09:55.50,0:09:56.72,Default,,0,0,0,,那个，还有一件事···
+Dialogue: 0,0:09:56.72,0:09:57.45,Default,,0,0,0,,什么事情？
+Dialogue: 0,0:09:57.45,0:09:59.94,Default,,0,0,0,,\N是关于露易丝·帕尔菲的事情。{/it's about ...}
+Dialogue: 0,0:10:01.74,0:10:03.81,Default,,0,0,0,,这次她又耍了什么花招？
+Dialogue: 0,0:10:03.81,0:10:06.66,Default,,0,0,0,,不，什么都没做，确切来说···
+Dialogue: 0,0:10:08.48,0:10:10.13,Default,,0,0,0,,你们两个，请进。
+Dialogue: 0,0:10:12.36,0:10:14.55,Default,,0,0,0,,所以到底是什么事？
+Dialogue: 0,0:10:16.61,0:10:19.77,Default,,0,0,0,,我的眼睛坏掉了吗？{/have my eyes finally gone bad/ 目がダメになっちまったのかね？}
+Dialogue: 0,0:10:21.17,0:10:25.20,Default,,0,0,0,,扎着辫子的那个是，\N今天从慕尼黑来的 露特。
+Dialogue: 0,0:10:25.20,0:10:26.59,Default,,0,0,0,,露特·科尔娜。
+Dialogue: 0,0:10:26.59,0:10:30.06,Default,,0,0,0,,你们两个很像，\N是亲戚还是什么吗？
+Dialogue: 0,0:10:32.08,0:10:34.53,Default,,0,0,0,,\N这两个人在今天之前还未曾见过面。
+Dialogue: 0,0:10:34.53,0:10:36.51,Default,,0,0,0,,不可思议啊。
+Dialogue: 0,0:10:36.51,0:10:40.19,Default,,0,0,0,,有什么奇怪的吗？{unsure what exactly she means} \N这不是想当然的事情吗？
+Dialogue: 0,0:10:40.19,0:10:43.94,Default,,0,0,0,,一个在维也纳长大，\N另一个在慕尼黑长大。
+Dialogue: 0,0:10:44.60,0:10:46.24,Default,,0,0,0,,我不是这个意思。
+Dialogue: 0,0:10:46.24,0:10:49.23,Default,,0,0,0,,不管怎样，我们不要再大惊小怪了。
+Dialogue: 0,0:10:54.22,0:10:55.56,Default,,0,0,0,,真的完全一样欸。
+Dialogue: 0,0:10:55.56,0:10:58.23,Default,,0,0,0,,这么像的孩子一定会成为很好的朋友！
+Dialogue: 0,0:10:58.23,0:10:59.36,Default,,0,0,0,,我保证。
+Dialogue: 0,0:10:59.36,0:11:00.47,Default,,0,0,0,,不要！
 Dialogue: 0,0:11:03.70,0:11:07.94,Default,,0,0,0,,Well, not like anyone would force you to. \NYou two are free to work this out by yourselves.{/there's no need to rush unnecessarily, I'll leave that to you two - no clue what she means in the last part, lit is "you can both say that"}
 Dialogue: 0,0:11:09.63,0:11:10.87,Default,,0,0,0,,Luise is at it again...
 Dialogue: 0,0:11:14.14,0:11:15.54,Default,,0,0,0,,Just a moment, Lotte.
