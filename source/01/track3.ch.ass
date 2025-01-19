@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 01.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 1.125000
-Scroll Position: 284
-Active Line: 307
+Scroll Position: 290
+Active Line: 310
 Video Position: 6818
 
 [V4+ Styles]
@@ -315,15 +315,15 @@ Dialogue: 0,0:20:14.35,0:20:16.56,Default,,0,0,0,,希望你能教导很多朋友
 Dialogue: 0,0:20:17.82,0:20:20.76,Default,,0,0,0,,你的行为相对于你的年龄太成熟了。
 Dialogue: 0,0:20:21.88,0:20:23.54,Default,,0,0,0,,但这是我的责任。
 Dialogue: 0,0:20:23.54,0:20:27.88,Default,,0,0,0,,做饭、打扫、洗衣——\N我把一切都交给我的小管家！{unsure why she used minna here, it's usually for entities, not items}
-Dialogue: 0,0:20:28.75,0:20:31.39,Default,,0,0,0,,Use this time for games, \Nlike the most ordinary child!{/to your hearts content with usual children}
-Dialogue: 0,0:20:31.39,0:20:34.03,Default,,0,0,0,,See that you come back \Nwith a lot of smile-wrinkles.
-Dialogue: 0,0:20:40.98,0:20:45.43,Default,,0,0,0,,Mom, those wrinkles are not from smiling.{/it seems I can't produce dimples}
+Dialogue: 0,0:20:28.75,0:20:31.39,Default,,0,0,0,,好好享受这段时间 ，\N像普通的孩子一样。{/to your hearts content with usual children}
+Dialogue: 0,0:20:31.39,0:20:34.03,Default,,0,0,0,,希望你回来的时候能带着酒窝笑。
+Dialogue: 0,0:20:40.98,0:20:45.43,Default,,0,0,0,,妈妈，我似乎不会笑出酒窝。{/it seems I can't produce dimples}
 Dialogue: 0,0:21:03.66,0:21:04.66,Default,,0,0,0,,露特···
 Dialogue: 0,0:21:17.90,0:21:19.21,Default,,0,0,0,,露易丝！
 Dialogue: 0,0:21:20.92,0:21:27.00,Default,,0,0,0,,露特，我不知道自己能不能做到，\N但是我明天一定会好好和你谈谈。
-Dialogue: 0,0:21:29.49,0:21:34.06,Default,,0,0,0,,With the warmth of their hearts, \Nthe two girls started building the bond between them.{/in the space between ... something warm started flowing}
-Dialogue: 0,0:21:34.06,0:21:39.65,Default,,0,0,0,,Like two magnets that first repel each other \Nwhen their identical poles meet, Luise and Lotte -
-Dialogue: 0,0:21:39.65,0:21:43.24,Default,,0,0,0,,what is it{ between them} that draws them together despite everything?
+Dialogue: 0,0:21:29.49,0:21:34.06,Default,,0,0,0,,怀着温暖的心，\N两个女孩之间开始建立联系。{/in the space between ... something warm started flowing}
+Dialogue: 0,0:21:34.06,0:21:39.65,Default,,0,0,0,,一开始，露易丝和露特就像两个磁铁，\N相同磁极相遇时就相互排斥。
+Dialogue: 0,0:21:39.65,0:21:43.24,Default,,0,0,0,,吸引她们走到一起的是什么呢？
 Dialogue: 0,0:21:43.80,0:21:48.80,Default,,0,0,0,,Where this gentle moonlight shows the way, {/just like this ...}\Nlet's keep a close eye on those two.{unsure, maybe he means "the two will start watching over one another"}
 Dialogue: 0,0:21:48.29,0:21:53.06,Sign,,0,0,0,,未完待续
 Dialogue: 0,0:21:55.37,0:21:56.89,Default,,0,0,0,,我是露易丝。
@@ -333,6 +333,6 @@ Dialogue: 0,0:22:00.94,0:22:03.01,Default,,0,0,0,,从我小时候开始就是这
 Dialogue: 0,0:22:03.01,0:22:03.64,Default,,0,0,0,,这样啊。
 Dialogue: 0,0:22:03.64,0:22:05.49,Default,,0,0,0,,只是现在是自己梳头。
 Dialogue: 0,0:22:05.49,0:22:09.72,Default,,0,0,0,,因为我们家没有爸爸，\N所以妈妈总是忙于工作。
-Dialogue: 0,0:22:10.27,0:22:15.46,Default,,0,0,0,,In our family, there's no mom. And our housekeeper Resi{rosa in english version but that would be blatantly off} \Njust can't stand it when she has to brush my hair.{lit is "is seems, ... doesn't like to brush children's hair" but that sounds kinda sus}
-Dialogue: 0,0:22:15.81,0:22:20.33,Default,,0,0,0,,Next time - I and Myself: Thread of Fate{運命の糸}. \N{\i1}Look forward to it!{\i0}
-Dialogue: 0,0:22:17.77,0:22:20.94,Sign,,0,0,0,,Episode 2 \NThread of Fate \N\N\N\N\N\N\N \h {\bord\blur0.8\fs22\c&HE3CDD8&\1a&H10&\3c&H767E27&}Translated by Perevodildo | Timings by Sub-RoRo
+Dialogue: 0,0:22:10.27,0:22:15.46,Default,,0,0,0,,在我家里没有妈妈，{rosa in english version but that would be blatantly off，我感觉像是lady的音译} \N女管家似乎并不喜欢给孩子们梳头。{lit is "is seems, ... doesn't like to brush children's hair" but that sounds kinda sus}
+Dialogue: 0,0:22:15.81,0:22:20.33,Default,,0,0,0,,下一集——我和我自己：命运之线。{運命の糸}. \N{\i1}敬请期待！{\i0}
+Dialogue: 0,0:22:17.77,0:22:20.94,Sign,,0,0,0,,第二集 \N命运之线 \N\N\N\N\N\N\N \h {\bord\blur0.8\fs22\c&HE3CDD8&\1a&H10&\3c&H767E27&}Translated by Perevodildo | Timings by Sub-RoRo
