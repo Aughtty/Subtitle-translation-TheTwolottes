@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 02.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 27
-Active Line: 38
+Scroll Position: 51
+Active Line: 61
 Video Position: 32061
 
 [V4+ Styles]
@@ -64,29 +64,29 @@ Dialogue: 0,0:03:30.58,0:03:32.66,Default,,0,0,0,,但同时也应该会有\n相�
 Dialogue: 0,0:03:37.16,0:03:38.38,Default,,0,0,0,,露易丝，球来了！
 Dialogue: 0,0:03:42.68,0:03:45.22,Default,,0,0,0,,怎么了？ \N这不是你平常的样子。
 Dialogue: 0,0:03:45.22,0:03:47.01,Default,,0,0,0,,你平常的活力都哪去了？
-Dialogue: 0,0:03:47.01,0:03:50.54,Default,,0,0,0,,True! The always tireless Luise \Nis just indifferent instead. {/w/o being to be in high spirits; to be full of vigor (vigour); to be enthusiastic; to be eager; to stretch to breaking point, you're just bored/uninterested}
-Dialogue: 0,0:03:50.54,0:03:51.79,Default,,0,0,0,,Think I'll pass today. {/enough already/stop}
-Dialogue: 0,0:03:53.60,0:03:55.55,Default,,0,0,0,,Wait a minute, Luise.
-Dialogue: 0,0:04:01.42,0:04:03.36,Default,,0,0,0,,You're being weird since yesterday, Luise
-Dialogue: 0,0:04:03.36,0:04:04.55,Default,,0,0,0,,Is it because of this Lotte?
-Dialogue: 0,0:04:04.55,0:04:06.01,Default,,0,0,0,,Don't let her get under your skin! {/if it bothers you so much,}
-Dialogue: 0,0:04:06.01,0:04:09.38,Default,,0,0,0,,Instead, just hurry up and bite off her nose already!
-Dialogue: 0,0:04:09.38,0:04:12.48,Default,,0,0,0,,Will you stop saying such rubbish, Christine? {/I can't do such stupid thing}
-Dialogue: 0,0:04:12.48,0:04:15.59,Default,,0,0,0,,But I thought she is going to reap \Nthe full extent of your anger! {/weren't you so much mad at her} {I tled this as "earned your anger"}
-Dialogue: 0,0:04:15.59,0:04:20.12,Default,,0,0,0,,I can't go around biting off everybody's noses \Njust cause they anger me one way or another.
-Dialogue: 0,0:04:20.38,0:04:23.11,Default,,0,0,0,,That's right. \NIt wouldn't be reasonable. {/I can't do such thing}
-Dialogue: 0,0:04:23.11,0:04:26.20,Default,,0,0,0,,What's that talk? \NI was just trying to put myself in your shoes. {/I said it as if your emotions were mine}
-Dialogue: 0,0:04:26.72,0:04:28.81,Default,,0,0,0,,You've never been in my shoes! {/You don't understand my feeling}
-Dialogue: 0,0:04:28.81,0:04:31.62,Default,,0,0,0,,Besides, Lotte never earned my anger in the first place! {/I'm not mad at lotte or something}
-Dialogue: 0,0:04:32.36,0:04:34.02,Default,,0,0,0,,Fiddles, you were glowing with anger! {/became extremely angry; furious; enraged​}
-Dialogue: 0,0:04:34.02,0:04:37.18,Default,,0,0,0,,And while we were dining, \Nyou kicked that girl in the shin!
-Dialogue: 0,0:04:37.18,0:04:39.23,Default,,0,0,0,,That's right, she nearly broke into tears then.
-Dialogue: 0,0:04:39.23,0:04:41.28,Default,,0,0,0,,Someone like Stephie would have cried right away. {/if it were stephie you kicked, she'd definitely cry}
-Dialogue: 0,0:04:41.28,0:04:43.04,Default,,0,0,0,,But Lotte is too boring for that. {/is a little thickheaded; insensitive; dull; thick-skinned}
-Dialogue: 0,0:04:43.53,0:04:44.59,Default,,0,0,0,,Enough I said!
-Dialogue: 0,0:04:44.59,0:04:48.74,Default,,0,0,0,,If you don't shut up at once, \Nyou'll be the ones getting a kick on the shins next! {not really sure what she means by "if you say even more funny things of that kind, I'll kick you"}
-Dialogue: 0,0:04:53.05,0:04:54.76,Default,,0,0,0,,What's the matter with her?
-Dialogue: 0,0:04:54.76,0:04:56.55,Default,,0,0,0,,It's not the usual Luise we know.
+Dialogue: 0,0:03:47.01,0:03:50.54,Default,,0,0,0,,对啊，一向那么有活力的\N你怎么这么无精打采。{/w/o being to be in high spirits; to be full of vigor (vigour); to be enthusiastic; to be eager; to stretch to breaking point, you're just bored/uninterested}
+Dialogue: 0,0:03:50.54,0:03:51.79,Default,,0,0,0,,今天就这样吧。
+Dialogue: 0,0:03:53.60,0:03:55.55,Default,,0,0,0,,等一下，露易丝。
+Dialogue: 0,0:04:01.42,0:04:03.36,Default,,0,0,0,,你从昨天开始就不对劲，露易丝。
+Dialogue: 0,0:04:03.36,0:04:04.55,Default,,0,0,0,,是因为露特吗？
+Dialogue: 0,0:04:04.55,0:04:06.01,Default,,0,0,0,,如果这让你很困扰的话，
+Dialogue: 0,0:04:06.01,0:04:09.38,Default,,0,0,0,,那就直接把她的鼻子咬掉吧！
+Dialogue: 0,0:04:09.38,0:04:12.48,Default,,0,0,0,,我不可能做这种蠢事的，克莉丝汀。{/I can't do such stupid thing}
+Dialogue: 0,0:04:12.48,0:04:15.59,Default,,0,0,0,,但是那个女孩 \N不是惹你很生气吗？{/weren't you so much mad at her} {I tled this as "earned your anger"}
+Dialogue: 0,0:04:15.59,0:04:20.12,Default,,0,0,0,,我不能因为生气， \N就咬掉别人的鼻子。
+Dialogue: 0,0:04:20.38,0:04:23.11,Default,,0,0,0,,对，我不能那么做。
+Dialogue: 0,0:04:23.11,0:04:26.20,Default,,0,0,0,,什么话这是？\N明明是你自己的情绪··· {/I said it as if your emotions were mine}
+Dialogue: 0,0:04:26.72,0:04:28.81,Default,,0,0,0,,你根本就不理解我的心情！ {/You don't understand my feeling}
+Dialogue: 0,0:04:28.81,0:04:31.62,Default,,0,0,0,,我根本就没生露特的气。
+Dialogue: 0,0:04:32.36,0:04:34.02,Default,,0,0,0,,假的吧？感觉你非常生气。
+Dialogue: 0,0:04:34.02,0:04:37.18,Default,,0,0,0,,吃晚饭的时候，\N你不是还踢了那个女孩的腿吗？
+Dialogue: 0,0:04:37.18,0:04:39.23,Default,,0,0,0,,对啊，她差点就哭出来了。
+Dialogue: 0,0:04:39.23,0:04:41.28,Default,,0,0,0,,如果是史蒂菲的话绝对就哭出来了。
+Dialogue: 0,0:04:41.28,0:04:43.04,Default,,0,0,0,,但是露特有点不敏感··· {/is a little thickheaded; insensitive; dull; thick-skinned}
+Dialogue: 0,0:04:43.53,0:04:44.59,Default,,0,0,0,,够了，不要说了！
+Dialogue: 0,0:04:44.59,0:04:48.74,Default,,0,0,0,,如果你还觉得这么说很有趣，\N我可真要踢你了{not really sure what she means by "if you say even more funny things of that kind, I'll kick you"}{原文应该是这样的：これ以上面白がってどうのこうの言うとあなたたち蹴飛ばすわよ，感觉可以翻译成觉得这样说很有趣}
+Dialogue: 0,0:04:53.05,0:04:54.76,Default,,0,0,0,,这到底是怎么回事？
+Dialogue: 0,0:04:54.76,0:04:56.55,Default,,0,0,0,,和平常的露易丝不一样啊。
 Dialogue: 0,0:04:56.89,0:04:59.56,Default,,0,0,0,,I really wonder what's gotten into you, Luise.
 Dialogue: 0,0:05:16.93,0:05:17.96,Default,,0,0,0,,Lotte...
 Dialogue: 0,0:05:52.02,0:05:52.72,Default,,0,0,0,,It's pretty.
