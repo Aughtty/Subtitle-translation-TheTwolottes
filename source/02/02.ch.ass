@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 02.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 51
-Active Line: 61
+Scroll Position: 107
+Active Line: 114
 Video Position: 32061
 
 [V4+ Styles]
@@ -84,62 +84,62 @@ Dialogue: 0,0:04:37.18,0:04:39.23,Default,,0,0,0,,对啊，她差点就哭出来
 Dialogue: 0,0:04:39.23,0:04:41.28,Default,,0,0,0,,如果是史蒂菲的话绝对就哭出来了。
 Dialogue: 0,0:04:41.28,0:04:43.04,Default,,0,0,0,,但是露特有点不敏感··· {/is a little thickheaded; insensitive; dull; thick-skinned}
 Dialogue: 0,0:04:43.53,0:04:44.59,Default,,0,0,0,,够了，不要说了！
-Dialogue: 0,0:04:44.59,0:04:48.74,Default,,0,0,0,,如果你还觉得这么说很有趣，\N我可真要踢你了{not really sure what she means by "if you say even more funny things of that kind, I'll kick you"}{原文应该是这样的：これ以上面白がってどうのこうの言うとあなたたち蹴飛ばすわよ，感觉可以翻译成觉得这样说很有趣}
+Dialogue: 0,0:04:44.59,0:04:48.74,Default,,0,0,0,,如果你们还觉得这么说很有趣，\N我可真要踢你们了{not really sure what she means by "if you say even more funny things of that kind, I'll kick you"}{原文应该是这样的：これ以上面白がってどうのこうの言うとあなたたち蹴飛ばすわよ，感觉可以翻译成觉得这样说很有趣}
 Dialogue: 0,0:04:53.05,0:04:54.76,Default,,0,0,0,,这到底是怎么回事？
 Dialogue: 0,0:04:54.76,0:04:56.55,Default,,0,0,0,,和平常的露易丝不一样啊。
-Dialogue: 0,0:04:56.89,0:04:59.56,Default,,0,0,0,,I really wonder what's gotten into you, Luise.
-Dialogue: 0,0:05:16.93,0:05:17.96,Default,,0,0,0,,Lotte...
-Dialogue: 0,0:05:52.02,0:05:52.72,Default,,0,0,0,,It's pretty.
-Dialogue: 0,0:05:53.06,0:05:54.08,Default,,0,0,0,,Want one?
-Dialogue: 0,0:05:55.27,0:05:57.77,Default,,0,0,0,,Would you be willing to put it on my head?
-Dialogue: 0,0:06:05.07,0:06:06.67,Default,,0,0,0,,Lovely! It looks great on you. {/pretty, it totally fits/becoming you}
-Dialogue: 0,0:06:07.70,0:06:08.72,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:06:09.55,0:06:11.13,Default,,0,0,0,,But aren't you still mad at me?
-Dialogue: 0,0:06:11.13,0:06:13.12,Default,,0,0,0,,You were the only one mad at people!
-Dialogue: 0,0:06:13.70,0:06:15.39,Default,,0,0,0,,Because it came as a surprise. {/I was startled}
-Dialogue: 0,0:06:15.39,0:06:16.79,Default,,0,0,0,,You appearing so suddenly...
-Dialogue: 0,0:06:17.17,0:06:19.79,Default,,0,0,0,,I was a little started myself.
-Dialogue: 0,0:06:19.79,0:06:21.45,Default,,0,0,0,,Did you leg hurt bad?
-Dialogue: 0,0:06:21.45,0:06:24.78,Default,,0,0,0,,A bit, yes. Nobody ever kicked me like that before. {/in that way/method/manner}
-Dialogue: 0,0:06:24.78,0:06:28.01,Default,,0,0,0,,I yielded to my habit. \NSlapping people here and there... {/I do that often - to slap; to strike; to spank}
-Dialogue: 0,0:06:28.72,0:06:30.16,Default,,0,0,0,,You're such a {great }tomboy.
-Dialogue: 0,0:06:30.60,0:06:31.21,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:06:31.88,0:06:32.71,Default,,0,0,0,,I forgot already.
-Dialogue: 0,0:06:46.43,0:06:49.26,Default,,0,0,0,,Still, don't you think it's really peculiar?
-Dialogue: 0,0:06:49.26,0:06:50.64,Default,,0,0,0,,What's peculiar? {not really sure what she means "you say okashi?"}
-Dialogue: 0,0:06:50.94,0:06:52.22,Default,,0,0,0,,Well, you know... {/after all}
-Dialogue: 0,0:06:53.88,0:06:54.60,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:06:57.95,0:06:59.74,Default,,0,0,0,,Say, you have any siblings?
-Dialogue: 0,0:06:59.74,0:07:00.62,Default,,0,0,0,,I have none.
-Dialogue: 0,0:07:00.62,0:07:01.50,Default,,0,0,0,,So do I!
-Dialogue: 0,0:07:11.86,0:07:12.41,Default,,0,0,0,,Come on!
-Dialogue: 0,0:07:22.27,0:07:25.42,Default,,0,0,0,,I know! Luise, would you mind \Nsitting here for a moment?
-Dialogue: 0,0:07:30.88,0:07:31.36,Default,,0,0,0,,Ouch!
-Dialogue: 0,0:07:31.36,0:07:32.43,Default,,0,0,0,,Bear with it.
-Dialogue: 0,0:07:32.95,0:07:37.05,Sign,,0,0,0,,You always yell like that \Nwhen your mom combs your hair, too?
-Dialogue: 0,0:07:37.05,0:07:39.27,Sign,,0,0,0,,But I don't really have a mom.
-Dialogue: 0,0:07:39.71,0:07:40.54,Default,,0,0,0,,That's why...
-Dialogue: 0,0:07:40.96,0:07:41.67,Default,,0,0,0,,Ouch!
-Dialogue: 0,0:07:42.08,0:07:45.15,Default,,0,0,0,,People say, that's why \NI'm being so noncompliant sometimes. {1. noisy; loud; boisterous; clamorous; raucous​\NI-adjective (keiyoushi)\N2. turbulent; unsettled; restless child}
-Dialogue: 0,0:07:45.15,0:07:46.35,Default,,0,0,0,,That explains a lot.
-Dialogue: 0,0:07:46.35,0:07:48.67,Default,,0,0,0,,It feels like they've never been brushed before.
-Dialogue: 0,0:07:48.67,0:07:51.92,Default,,0,0,0,,Maybe you're just too used to your mom \Nalways combing your hair for you? {/is lotte's mom always ...}
-Dialogue: 0,0:07:52.46,0:07:54.89,Default,,0,0,0,,It's true that she's been doing it \Nsince I was small. {Always.}
-Dialogue: 0,0:07:54.89,0:07:56.84,Default,,0,0,0,,But these days, I do it myself.
-Dialogue: 0,0:07:56.84,0:07:59.35,Default,,0,0,0,,Mom is being too busy with her work.
-Dialogue: 0,0:07:59.35,0:08:00.85,Default,,0,0,0,,And dad... Well I don't have one.
-Dialogue: 0,0:08:00.85,0:08:02.33,Default,,0,0,0,,We are such a polar opposites. {/it's the opposite for us}
-Dialogue: 0,0:08:02.33,0:08:04.77,Default,,0,0,0,,In my family, it's dad who is constantly busy.
-Dialogue: 0,0:08:04.77,0:08:06.19,Default,,0,0,0,,He is a musician.
-Dialogue: 0,0:08:06.19,0:08:08.80,Default,,0,0,0,,Sometimes, he composes, \Nsometimes he conducts operas. {/as a composer and as a conductor in opera}
-Dialogue: 0,0:08:09.69,0:08:12.68,Default,,0,0,0,,Also living with us - \Nour housekeeper Resi.
-Dialogue: 0,0:08:13.57,0:08:17.91,Default,,0,0,0,,She's nice and all, but combing a child's hair \Nis not something she's fond of.
-Dialogue: 0,0:08:17.91,0:08:20.06,Default,,0,0,0,,Doesn't your dad ever take a slipper to you? {/spank your ass}
-Dialogue: 0,0:08:20.06,0:08:21.20,Default,,0,0,0,,Are you serious? {/no way}
-Dialogue: 0,0:08:21.20,0:08:26.55,Default,,0,0,0,,My dad dotes on me too much, saying this all the time: \N"You are my most precious treasure!"
-Dialogue: 0,0:08:27.26,0:08:30.87,Default,,0,0,0,,Even when I do something deserving scolding, \Nhe just looks me straight in the eyes,
-Dialogue: 0,0:08:30.87,0:08:33.00,Default,,0,0,0,,and asks me this, ever so seriously: {/slowly/patiently to tell; to (try to) persuade; to advise; to warn; to admonish; to reason}
-Dialogue: 0,0:08:33.00,0:08:34.91,Default,,0,0,0,,"Are you asking for a spanking?" {unsure what she means by "I'm not going to hit anywhere or something else."}
+Dialogue: 0,0:04:56.89,0:04:59.56,Default,,0,0,0,,真的想知道露易丝\n到底是怎么了？
+Dialogue: 0,0:05:16.93,0:05:17.96,Default,,0,0,0,,露特···
+Dialogue: 0,0:05:52.02,0:05:52.72,Default,,0,0,0,,很漂亮。
+Dialogue: 0,0:05:53.06,0:05:54.08,Default,,0,0,0,,想要吗？
+Dialogue: 0,0:05:55.27,0:05:57.77,Default,,0,0,0,,你愿意把它戴在我头上吗？
+Dialogue: 0,0:06:05.07,0:06:06.67,Default,,0,0,0,,太美了，非常适合你。
+Dialogue: 0,0:06:07.70,0:06:08.72,Default,,0,0,0,,谢谢你。
+Dialogue: 0,0:06:09.55,0:06:11.13,Default,,0,0,0,,你是不是还在生我的气？
+Dialogue: 0,0:06:11.13,0:06:13.12,Default,,0,0,0,,生气的人不是你吗？
+Dialogue: 0,0:06:13.70,0:06:15.39,Default,,0,0,0,,因为太惊讶了，
+Dialogue: 0,0:06:15.39,0:06:16.79,Default,,0,0,0,,你的突然出现···
+Dialogue: 0,0:06:17.17,0:06:19.79,Default,,0,0,0,,我也是有点惊讶的。
+Dialogue: 0,0:06:19.79,0:06:21.45,Default,,0,0,0,,你的腿还疼吗？
+Dialogue: 0,0:06:21.45,0:06:24.78,Default,,0,0,0,,有点，我还是第一次被这样踢。
+Dialogue: 0,0:06:24.78,0:06:28.01,Default,,0,0,0,,我经常这样做， \N扇耳光或诸如此类的···{/I do that often - to slap; to strike; to spank}
+Dialogue: 0,0:06:28.72,0:06:30.16,Default,,0,0,0,,你还真是调皮。
+Dialogue: 0,0:06:30.60,0:06:31.21,Default,,0,0,0,,抱歉。
+Dialogue: 0,0:06:31.88,0:06:32.71,Default,,0,0,0,,我已经忘了。
+Dialogue: 0,0:06:46.43,0:06:49.26,Default,,0,0,0,,但是其实不是很奇怪吗？
+Dialogue: 0,0:06:49.26,0:06:50.64,Default,,0,0,0,,很奇怪吗？
+Dialogue: 0,0:06:50.94,0:06:52.22,Default,,0,0,0,,毕竟···
+Dialogue: 0,0:06:53.88,0:06:54.60,Default,,0,0,0,,我们走。
+Dialogue: 0,0:06:57.95,0:06:59.74,Default,,0,0,0,,你有兄弟姐妹吗？
+Dialogue: 0,0:06:59.74,0:07:00.62,Default,,0,0,0,,没有。
+Dialogue: 0,0:07:00.62,0:07:01.50,Default,,0,0,0,,我也是！
+Dialogue: 0,0:07:11.86,0:07:12.41,Default,,0,0,0,,进来吧。
+Dialogue: 0,0:07:22.27,0:07:25.42,Default,,0,0,0,,对了，露易丝， \N坐在椅子上一会儿，好吗？
+Dialogue: 0,0:07:30.88,0:07:31.36,Default,,0,0,0,,哎呦。
+Dialogue: 0,0:07:31.36,0:07:32.43,Default,,0,0,0,,忍耐一下。
+Dialogue: 0,0:07:32.95,0:07:37.05,Sign,,0,0,0,,你妈妈给你梳头的时候，\N你也会这么不安分吗？
+Dialogue: 0,0:07:37.05,0:07:39.27,Sign,,0,0,0,,我实际上没有妈妈···{虽然没有实际上这个意思，但是感觉这样翻译出来会更符合语境一点}
+Dialogue: 0,0:07:39.71,0:07:40.54,Default,,0,0,0,,因此···
+Dialogue: 0,0:07:40.96,0:07:41.67,Default,,0,0,0,,啊，疼！
+Dialogue: 0,0:07:42.08,0:07:45.15,Default,,0,0,0,,所以我才会这么淘气啊。{1. noisy; loud; boisterous; clamorous; raucous​\NI-adjective (keiyoushi)\N2. turbulent; unsettled; restless child}{原文内容：だから私はこんなに創造しい子なんですって，感觉应该就是这样翻译的}
+Dialogue: 0,0:07:45.15,0:07:46.35,Default,,0,0,0,,原来如此啊。
+Dialogue: 0,0:07:46.35,0:07:48.67,Default,,0,0,0,,怪不得像第一次梳头一样。
+Dialogue: 0,0:07:48.67,0:07:51.92,Default,,0,0,0,,你的妈妈经常帮你梳头吗？
+Dialogue: 0,0:07:52.46,0:07:54.89,Default,,0,0,0,,从我很小的时候 \N就总是给我梳头。
+Dialogue: 0,0:07:54.89,0:07:56.84,Default,,0,0,0,,但是现在我自己梳头，
+Dialogue: 0,0:07:56.84,0:07:59.35,Default,,0,0,0,,因为母亲忙于工作，
+Dialogue: 0,0:07:59.35,0:08:00.85,Default,,0,0,0,,我家中又没有父亲。
+Dialogue: 0,0:08:00.85,0:08:02.33,Default,,0,0,0,,我们家里正好相反啊。
+Dialogue: 0,0:08:02.33,0:08:04.77,Default,,0,0,0,,我的父亲也很忙，
+Dialogue: 0,0:08:04.77,0:08:06.19,Default,,0,0,0,,他是一个音乐家，
+Dialogue: 0,0:08:06.19,0:08:08.80,Default,,0,0,0,,有时候作曲，有时候指挥歌剧。
+Dialogue: 0,0:08:09.69,0:08:12.68,Default,,0,0,0,,我们家的家务事保姆蕾吉做的。
+Dialogue: 0,0:08:13.57,0:08:17.91,Default,,0,0,0,,但是她不喜欢给孩子梳头发。
+Dialogue: 0,0:08:17.91,0:08:20.06,Default,,0,0,0,,你爸爸会打你屁股吗？
+Dialogue: 0,0:08:20.06,0:08:21.20,Default,,0,0,0,,怎么可能。
+Dialogue: 0,0:08:21.20,0:08:26.55,Default,,0,0,0,,爸爸非常疼爱我，\n他说我是他的宝物，
+Dialogue: 0,0:08:27.26,0:08:30.87,Default,,0,0,0,,虽然有时候会被训斥，\n但那个时候，他也会看着我的眼睛，
+Dialogue: 0,0:08:30.87,0:08:33.00,Default,,0,0,0,,慢慢跟我讲道理。
+Dialogue: 0,0:08:33.00,0:08:34.91,Default,,0,0,0,,他从来不打我。
 Dialogue: 0,0:08:34.91,0:08:37.21,Default,,0,0,0,,My! So he spoiled you beyond belief.
 Dialogue: 0,0:08:37.21,0:08:41.39,Default,,0,0,0,,Not at all! It's just that my dad \Nis always preoccupied with other stuff he has to tend to. {hope this is what she means by "dad always has hid head full of thoughts"}
 Dialogue: 0,0:08:41.85,0:08:44.56,Default,,0,0,0,,But can't he free up \Neven just one hand to do it? {/one hand would be enough for that, after all}
