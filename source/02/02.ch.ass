@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 02.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 125
-Active Line: 159
+Scroll Position: 206
+Active Line: 210
 Video Position: 32061
 
 [V4+ Styles]
@@ -185,57 +185,57 @@ Dialogue: 0,0:11:31.00,0:11:33.71,Default,,0,0,0,,她和露易丝一直是一个
 Dialogue: 0,0:11:33.71,0:11:35.19,Default,,0,0,0,,欸，你这样想吗？
 Dialogue: 0,0:11:42.65,0:11:44.79,Default,,0,0,0,,可是我完全看不出来。
 Dialogue: 0,0:11:45.75,0:11:48.79,Default,,0,0,0,,有了，有一个办法 \N可以分辨出她们。
-Dialogue: 0,0:11:50.88,0:11:52.05,Default,,0,0,0,,Ouch!
-Dialogue: 0,0:11:52.79,0:11:54.04,Default,,0,0,0,,This here is Luise!
-Dialogue: 0,0:11:55.09,0:11:56.99,Default,,0,0,0,,This girl sure knows what she's doing! {/no doubt about this girl}
-Dialogue: 0,0:12:00.98,0:12:03.39,Default,,0,0,0,,My, how most unexpected!
-Dialogue: 0,0:12:03.72,0:12:05.46,Default,,0,0,0,,That can be considered sorted out. {hope it's hitosawagase - person that annoys or causes trouble; false alarm}
-Dialogue: 0,0:12:05.46,0:12:07.85,Default,,0,0,0,,Now, now, everyone. \NReturn to your seats.
-Dialogue: 0,0:12:07.85,0:12:10.06,Default,,0,0,0,,We can postpone the discussion to after the lunch.
-Dialogue: 0,0:12:18.84,0:12:21.82,Default,,0,0,0,,Hey, you plan to dress up like this every day now?
-Dialogue: 0,0:12:21.82,0:12:25.08,Default,,0,0,0,,No way! Those braids are too burdensome to wear. {/This sober hair style imposes a certain strain upon me.} {/constraining  - 1. narrow; tight; cramped​\NNa-adjective (keiyodoshi), Noun\N2. formal; stiff; strict; ceremonious; rigid​\NNa-adjective (keiyodoshi), Noun\N3. constrained; uncomfortable}
-Dialogue: 0,0:12:25.08,0:12:27.70,Default,,0,0,0,,Minding your conduct, \Nlike a proper braided girl would, is above me! {to behave well; to mind one's manners​ is against my nature}
-Dialogue: 0,0:12:27.70,0:12:29.89,Default,,0,0,0,,Some things in Luise never change, after all. {/that is very louise-like}
-Dialogue: 0,0:12:29.89,0:12:33.03,Default,,0,0,0,,My! Not a hint of consideration for others' feelings! {/I want you to consider/think of people's trouble; bother; annoyance; nuisance; inconvenience}
-Dialogue: 0,0:12:33.03,0:12:37.24,Default,,0,0,0,,You swore your eternal enmity just yesterday, \Nand now you bring her along like we don't mean business! {/were so mad yesterday, to go along with; to follow someone's lead; to accompany someone; to compromise we are like fools aren't we - unsure if she means "you make us look idiots by hanging out with her/bringing her along" or "by hanging out with us, looking like her" or "you make yourself look stupid by hanging out with us" either way I'm not sure where "we" belongs here}
-Dialogue: 0,0:12:37.84,0:12:38.86,Default,,0,0,0,,My bad, my bad.
-Dialogue: 0,0:12:38.86,0:12:41.16,Default,,0,0,0,,I hope we can become friends now, Truda. {/will start getting along after this}
-Dialogue: 0,0:12:41.88,0:12:45.51,Default,,0,0,0,,I hope so too, Lotte. At least, I shouldn't be afraid of you\Nslapping me any given moment. {/I don't mind it}
-Dialogue: 0,0:12:47.31,0:12:52.30,Default,,0,0,0,,Say, Christine, how about us two \Nalso bury the hatchet and move on? {/forget about the fight we had}
-Dialogue: 0,0:12:53.69,0:12:56.04,Default,,0,0,0,,Sure thing, you make friends where you find them. {/let's get along}
-Dialogue: 0,0:12:57.86,0:13:00.24,Default,,0,0,0,,You'll tell me all about how Vienna is like, won't you?
-Dialogue: 0,0:13:00.75,0:13:04.06,Default,,0,0,0,,Only as long as you reveal to me every secret of Munich!
-Dialogue: 0,0:13:11.21,0:13:12.31,Sign,,0,0,0,,A photographer?
-Dialogue: 0,0:13:12.77,0:13:15.89,Sign,,0,0,0,,Yes, we have one. \NBut why would you need him?
-Dialogue: 0,0:13:15.89,0:13:18.75,Sign,,0,0,0,,We wish to fix our "doubleness" by a camera.
-Dialogue: 0,0:13:18.75,0:13:20.30,Default,,0,0,0,,We'll send the pictures back home.
-Dialogue: 0,0:13:20.30,0:13:22.41,Default,,0,0,0,,Just letters would never suffice. {/with just letters, you totally can't understand}
-Dialogue: 0,0:13:22.97,0:13:26.75,Default,,0,0,0,,The fact the two can be so alike - \Nyou wouldn't believe it until you see a picture!
-Dialogue: 0,0:13:27.69,0:13:30.12,Default,,0,0,0,,I see. You want your relatives to see it, too? {/people at home}
-Dialogue: 0,0:13:30.12,0:13:33.08,Default,,0,0,0,,Very well. \NYou two can go down to the village.
-Dialogue: 0,0:13:33.08,0:13:34.38,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:13:34.38,0:13:36.47,Default,,0,0,0,,Make sure to take a great picture.
-Dialogue: 0,0:13:36.47,0:13:38.78,Default,,0,0,0,,Remember, you should be back by dinner. {/until evening}
-Dialogue: 0,0:13:38.78,0:13:39.44,Default,,0,0,0,,Okay!
-Dialogue: 0,0:13:52.89,0:13:55.58,Sign,,0,0,0,,Seebühl Village
-Dialogue: 0,0:14:23.82,0:14:26.72,Default,,0,0,0,,Get ready now, young ladies. \NWe're starting.
-Dialogue: 0,0:14:27.39,0:14:29.74,Default,,0,0,0,,Now, Twin Frauleins, please straighten up your backs. {no clue what is that "au/ai"}
-Dialogue: 0,0:14:31.54,0:14:33.58,Default,,0,0,0,,The photo is done, \Ngood job, everyone.
-Dialogue: 0,0:14:33.58,0:14:35.51,Default,,0,0,0,,Thank you, Herr Eipeldauer. {German version, Appeldauer in english one}
-Dialogue: 0,0:14:35.51,0:14:37.43,Default,,0,0,0,,When will the picture be ready?
-Dialogue: 0,0:14:37.43,0:14:38.92,Default,,0,0,0,,Give me just three days.
-Dialogue: 0,0:14:38.92,0:14:40.42,Default,,0,0,0,,I'll format it into a postcard. {I think he means "I'll produce it in a form usually used for picture postcards"}
-Dialogue: 0,0:14:40.42,0:14:42.28,Default,,0,0,0,,Then, we'll come pick it up later.
-Dialogue: 0,0:14:44.97,0:14:47.28,Default,,0,0,0,,I'll make sure you'll love this print! {/to make a good picture}
-Dialogue: 0,0:14:47.28,0:14:50.08,Default,,0,0,0,,After all, two young Frauleins on it \Nare as similar as twins!
-Dialogue: 0,0:14:50.39,0:14:51.64,Default,,0,0,0,,He said "twins!"
-Dialogue: 0,0:14:54.60,0:14:58.06,Default,,0,0,0,,Really, it's not every day \Nthat you get to see two girls so alike.
-Dialogue: 0,0:14:59.27,0:15:03.24,Default,,0,0,0,,Actually, I'll send a few glossy prints \Nto some of the big illustrated magazines.
-Dialogue: 0,0:15:03.24,0:15:06.07,Default,,0,0,0,,They're often interested in things like that.
-Dialogue: 0,0:15:11.59,0:15:15.60,Default,,0,0,0,,Ah, that's better. \NI can finally feel like I am myself again. {/so refreshing, after all, I'm better this way}
-Dialogue: 0,0:15:15.60,0:15:19.02,Default,,0,0,0,,Hey, those pictures sure are expensive, \NI was startled by that tag. {/it was surprisingly pricey}
-Dialogue: 0,0:15:19.02,0:15:20.81,Default,,0,0,0,,Don't you worry about it. {/you can leave this to me}
-Dialogue: 0,0:15:20.81,0:15:23.44,Default,,0,0,0,,Dad sent me here with a hefty allowance. {/dad gave me a lot of pocket money}
+Dialogue: 0,0:11:50.88,0:11:52.05,Default,,0,0,0,,疼！
+Dialogue: 0,0:11:52.79,0:11:54.04,Default,,0,0,0,,这个就是露易丝！
+Dialogue: 0,0:11:55.09,0:11:56.99,Default,,0,0,0,,肯定就是她了！
+Dialogue: 0,0:12:00.98,0:12:03.39,Default,,0,0,0,,多么不可思议啊！{认为此处应该是需要意译的，翻译成这是怎么回事总感觉有点生硬而且不太符合当下语境}
+Dialogue: 0,0:12:03.72,0:12:05.46,Default,,0,0,0,,快别折腾我了。 {hope it's hitosawagase - person that annoys or causes trouble; false alarm}{我听起来原文像是：ひと騒ごせな，直译的话应该是别闹了，我稍微意译了一下}
+Dialogue: 0,0:12:05.46,0:12:07.85,Default,,0,0,0,,好了好了，各位回到 \N自己的座位上吧。
+Dialogue: 0,0:12:07.85,0:12:10.06,Default,,0,0,0,,吃完饭之后再聊天吧。
+Dialogue: 0,0:12:18.84,0:12:21.82,Default,,0,0,0,,欸，你打算每天都穿成这样吗？
+Dialogue: 0,0:12:21.82,0:12:25.08,Default,,0,0,0,,怎么会，扎辫子让我\n感觉有点拘束。{/This sober hair style imposes a certain strain upon me.} {/constraining  - 1. narrow; tight; cramped​\NNa-adjective (keiyodoshi), Noun\N2. formal; stiff; strict; ceremonious; rigid​\NNa-adjective (keiyodoshi), Noun\N3. constrained; uncomfortable}
+Dialogue: 0,0:12:25.08,0:12:27.70,Default,,0,0,0,,好像必须要表现得\n很有礼貌，我不喜欢。{to behave well; to mind one's manners​ is against my nature}
+Dialogue: 0,0:12:27.70,0:12:29.89,Default,,0,0,0,,那样就不是露易丝了。{/that is very louise-like}
+Dialogue: 0,0:12:29.89,0:12:33.03,Default,,0,0,0,,真是的，至少也该考虑\n一下别人的感受啊。 {/I want you to consider/think of people's trouble; bother; annoyance; nuisance; inconvenience}
+Dialogue: 0,0:12:33.03,0:12:37.24,Default,,0,0,0,,昨天那么生气，结果我们还\n和你一起，简直像傻子一样。{/were so mad yesterday, to go along with; to follow someone's lead; to accompany someone; to compromise we are like fools aren't we - unsure if she means "you make us look idiots by hanging out with her/bringing her along" or "by hanging out with us, looking like her" or "you make yourself look stupid by hanging out with us" either way I'm not sure where "we" belongs here}
+Dialogue: 0,0:12:37.84,0:12:38.86,Default,,0,0,0,,抱歉抱歉。
+Dialogue: 0,0:12:38.86,0:12:41.16,Default,,0,0,0,,从今往后我会好好\n相处的，特露达。
+Dialogue: 0,0:12:41.88,0:12:45.51,Default,,0,0,0,,好啊，露特，如果是你的话\n，我肯定不会被扇耳光的。
+Dialogue: 0,0:12:47.31,0:12:52.30,Default,,0,0,0,,嘿，克莉丝汀，我们也\n没有理由吵架了。{/forget about the fight we had}
+Dialogue: 0,0:12:53.69,0:12:56.04,Default,,0,0,0,,嗯，那就算是冰释前嫌吧。{/let's get along}
+Dialogue: 0,0:12:57.86,0:13:00.24,Default,,0,0,0,,能和我讲讲维也纳\n是个什么样的地方吗？
+Dialogue: 0,0:13:00.75,0:13:04.06,Default,,0,0,0,,如果你能告诉我慕尼黑\n的故事我就告诉你。
+Dialogue: 0,0:13:11.21,0:13:12.31,Sign,,0,0,0,,照相馆？
+Dialogue: 0,0:13:12.77,0:13:15.89,Sign,,0,0,0,,有的，不过你们要做什么？
+Dialogue: 0,0:13:15.89,0:13:18.75,Sign,,0,0,0,,我们想拍张照片。
+Dialogue: 0,0:13:18.75,0:13:20.30,Default,,0,0,0,,然后寄回家，
+Dialogue: 0,0:13:20.30,0:13:22.41,Default,,0,0,0,,仅靠信写得再多也没办法说明白，{/with just letters, you totally can't understand}
+Dialogue: 0,0:13:22.97,0:13:26.75,Default,,0,0,0,,我们想用照片让他们看到\n我们有多像，让他们大吃一惊。
+Dialogue: 0,0:13:27.69,0:13:30.12,Default,,0,0,0,,哦，是给家里人看的啊。 {/people at home}
+Dialogue: 0,0:13:30.12,0:13:33.08,Default,,0,0,0,,明白了，可以去村里拍照。
+Dialogue: 0,0:13:33.08,0:13:34.38,Default,,0,0,0,,谢谢你。
+Dialogue: 0,0:13:34.38,0:13:36.47,Default,,0,0,0,,要拍张好看的照片。
+Dialogue: 0,0:13:36.47,0:13:38.78,Default,,0,0,0,,记得傍晚前回来哦。 {/until evening}
+Dialogue: 0,0:13:38.78,0:13:39.44,Default,,0,0,0,,好的！
+Dialogue: 0,0:13:52.89,0:13:55.58,Sign,,0,0,0,,塞比尔村
+Dialogue: 0,0:14:23.82,0:14:26.72,Default,,0,0,0,,那么，小姑娘们，\n准备拍咯！
+Dialogue: 0,0:14:27.39,0:14:29.74,Default,,0,0,0,,欸，双胞胎，请把背挺直。 {no clue what is that "au/ai"}{感觉原文是这个：｛あう｝双子ちゃん背筋を伸ばして，但是也不知道这个怎么翻译}
+Dialogue: 0,0:14:31.54,0:14:33.58,Default,,0,0,0,,拍好了，辛苦啦。
+Dialogue: 0,0:14:33.58,0:14:35.51,Default,,0,0,0,,谢谢你，艾佩尔·道尔先生。 {German version, Appeldauer in english one}
+Dialogue: 0,0:14:35.51,0:14:37.43,Default,,0,0,0,,照片什么时候能洗好呢？
+Dialogue: 0,0:14:37.43,0:14:38.92,Default,,0,0,0,,三天之后就可以拿了。
+Dialogue: 0,0:14:38.92,0:14:40.42,Default,,0,0,0,,是明信片的形式哦。{I think he means "I'll produce it in a form usually used for picture postcards"}
+Dialogue: 0,0:14:40.42,0:14:42.28,Default,,0,0,0,,那我们到时候来取。
+Dialogue: 0,0:14:44.97,0:14:47.28,Default,,0,0,0,,一定会是很棒的照片！{/to make a good picture}
+Dialogue: 0,0:14:47.28,0:14:50.08,Default,,0,0,0,,你们俩真是一模\n一样的双胞胎呢。
+Dialogue: 0,0:14:50.39,0:14:51.64,Default,,0,0,0,,他说我们是双胞胎欸。
+Dialogue: 0,0:14:54.60,0:14:58.06,Default,,0,0,0,,真是的，那样长得一模一样\n的孩子可真是少见啊。
+Dialogue: 0,0:14:59.27,0:15:03.24,Default,,0,0,0,,对了，再多洗几张，\n寄到杂志社试试。
+Dialogue: 0,0:15:03.24,0:15:06.07,Default,,0,0,0,,他们对这种东西可是很感兴趣的。
+Dialogue: 0,0:15:11.59,0:15:15.60,Default,,0,0,0,,啊，感觉轻松多了，\n果然我还是更喜欢这样。 {/so refreshing, after all, I'm better this way}
+Dialogue: 0,0:15:15.60,0:15:19.02,Default,,0,0,0,,不过，照片可真贵啊，\n真是吓了一跳。{/it was surprisingly pricey}
+Dialogue: 0,0:15:19.02,0:15:20.81,Default,,0,0,0,,放心交给我吧，{/you can leave this to me}
+Dialogue: 0,0:15:20.81,0:15:23.44,Default,,0,0,0,,爸爸给了我很多零花钱呢。 {/dad gave me a lot of pocket money}
 Dialogue: 0,0:15:36.98,0:15:38.69,Default,,0,0,0,,Lotte, aren't you thirsty? {/is your throat dry}
 Dialogue: 0,0:15:38.69,0:15:40.50,Default,,0,0,0,,Let's get something to drink here.
 Dialogue: 0,0:15:40.50,0:15:41.02,Default,,0,0,0,,But...
