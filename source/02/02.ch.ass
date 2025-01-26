@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 02.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 206
-Active Line: 210
+Scroll Position: 257
+Active Line: 267
 Video Position: 32061
 
 [V4+ Styles]
@@ -236,63 +236,63 @@ Dialogue: 0,0:15:11.59,0:15:15.60,Default,,0,0,0,,啊，感觉轻松多了，\n�
 Dialogue: 0,0:15:15.60,0:15:19.02,Default,,0,0,0,,不过，照片可真贵啊，\n真是吓了一跳。{/it was surprisingly pricey}
 Dialogue: 0,0:15:19.02,0:15:20.81,Default,,0,0,0,,放心交给我吧，{/you can leave this to me}
 Dialogue: 0,0:15:20.81,0:15:23.44,Default,,0,0,0,,爸爸给了我很多零花钱呢。 {/dad gave me a lot of pocket money}
-Dialogue: 0,0:15:36.98,0:15:38.69,Default,,0,0,0,,Lotte, aren't you thirsty? {/is your throat dry}
-Dialogue: 0,0:15:38.69,0:15:40.50,Default,,0,0,0,,Let's get something to drink here.
-Dialogue: 0,0:15:40.50,0:15:41.02,Default,,0,0,0,,But...
-Dialogue: 0,0:15:41.02,0:15:44.80,Default,,0,0,0,,Don't be shy. I'll take care of you. \NJust a small detour, we'll be fine. {/leave this to me, dropping in on the way; stopping off at; making a side trip, ...}
-Dialogue: 0,0:15:52.65,0:15:55.66,Default,,0,0,0,,Say, has your dad been dead for long?
-Dialogue: 0,0:15:56.01,0:15:57.16,Default,,0,0,0,,No clue.
-Dialogue: 0,0:15:57.73,0:15:59.04,Default,,0,0,0,,I don't remember.
-Dialogue: 0,0:15:59.37,0:16:02.63,Default,,0,0,0,,Mom also never mentions my dad.
-Dialogue: 0,0:16:03.20,0:16:07.10,Default,,0,0,0,,And the last time I was pressing her to tell me, \Nit was just too distressing for her. {/when before I persistently was asking, she made a very sad face}
-Dialogue: 0,0:16:07.10,0:16:08.95,Default,,0,0,0,,So I no longer try to find out. {/now I don't ask}
-Dialogue: 0,0:16:08.95,0:16:11.22,Default,,0,0,0,,But I shouldn't think that he is really dead.
-Dialogue: 0,0:16:11.22,0:16:12.60,Default,,0,0,0,,I've never been to his grave.
-Dialogue: 0,0:16:13.76,0:16:16.75,Default,,0,0,0,,I also don't have a single memory of my mom.
-Dialogue: 0,0:16:16.75,0:16:20.93,Default,,0,0,0,,We used to have a photo of her, though. \NOn the piano in my dad's office.
-Dialogue: 0,0:16:20.93,0:16:23.50,Default,,0,0,0,,All I can remember is that she was pretty.
-Dialogue: 0,0:16:23.50,0:16:25.70,Default,,0,0,0,,When I was small, \NI was looking at her all the time.
-Dialogue: 0,0:16:25.70,0:16:28.55,Default,,0,0,0,,Then, some years ago, \NI asked dad directly, {really unsure what she means by itkutsunotoki}
-Dialogue: 0,0:16:29.01,0:16:31.53,Default,,0,0,0,,"Where is my mom now?"
-Dialogue: 0,0:16:32.23,0:16:34.41,Default,,0,0,0,,Dad never gave me an answer.
-Dialogue: 0,0:16:34.84,0:16:36.99,Default,,0,0,0,,Next day, the photo was gone.
-Dialogue: 0,0:16:36.99,0:16:38.99,Default,,0,0,0,,I'm sure he locked it up somewhere.
-Dialogue: 0,0:16:39.37,0:16:41.18,Default,,0,0,0,,We're both so unfortunate. {hope this is what she means "it's not going well"}
-Dialogue: 0,0:16:41.18,0:16:44.21,Default,,0,0,0,,One doesn't have a dad \Nand the other doesn't have a mom.
-Dialogue: 0,0:16:44.89,0:16:48.91,Default,,0,0,0,,It seems, along with appearances, \Nwe suffer a common fate as well. {/not only our faces, but our circumstances; environment; situation are similar too}
-Dialogue: 0,0:16:48.91,0:16:51.89,Default,,0,0,0,,Probably, age, too. \NYou're ten, aren't you?
-Dialogue: 0,0:16:51.89,0:16:54.78,Default,,0,0,0,,Yeah. Will turn eleven on the fourteenth of October.
-Dialogue: 0,0:16:55.51,0:16:56.73,Default,,0,0,0,,Fourteenth of October?
-Dialogue: 0,0:16:57.19,0:16:59.08,Default,,0,0,0,,Yes, this is my birthday.
-Dialogue: 0,0:16:59.08,0:17:00.28,Default,,0,0,0,,Mine, too!
-Dialogue: 0,0:17:26.34,0:17:28.02,Default,,0,0,0,,And your birthplace is... {/where were you born}
-Dialogue: 0,0:17:29.13,0:17:30.97,Default,,0,0,0,,Linz on the Danube.
-Dialogue: 0,0:17:32.74,0:17:33.89,Default,,0,0,0,,Mine, too.
-Dialogue: 0,0:17:37.35,0:17:40.28,Default,,0,0,0,,My mom's name is Luiselotte Körner!
-Dialogue: 0,0:17:40.61,0:17:42.31,Default,,0,0,0,,Luiselotte?
-Dialogue: 0,0:17:43.02,0:17:44.15,Default,,0,0,0,,Luise...
-Dialogue: 0,0:17:44.52,0:17:45.28,Default,,0,0,0,,Lotte...
-Dialogue: 0,0:17:45.88,0:17:49.27,Default,,0,0,0,,A photo... \NI have mom's photo in my locker!
-Dialogue: 0,0:17:49.68,0:17:50.50,Default,,0,0,0,,Show it to me!
-Dialogue: 0,0:17:53.69,0:17:57.12,Default,,0,0,0,,Hey, hey! Is it epidemic among kids these days? {/is this a fashion; trend; vogue; craze; fad; popularity lately/these days?}
-Dialogue: 0,0:17:57.12,0:17:59.64,Default,,0,0,0,,Drinking the juice and leaving without paying...
-Dialogue: 0,0:17:59.64,0:18:00.52,Default,,0,0,0,,I'm sorry!
-Dialogue: 0,0:18:01.94,0:18:03.67,Default,,0,0,0,,Ah... Hey! Your change!
-Dialogue: 0,0:18:06.31,0:18:10.55,Default,,0,0,0,,Now what another mischief \Nare those young monkeys up to now? {taking the translation from book, because I have no clue what she means by "those idiots, I wonder what badness did they do/mischief"}
-Dialogue: 0,0:18:14.34,0:18:16.89,Default,,0,0,0,,We're in trouble, Frau Muthesius!
-Dialogue: 0,0:18:16.89,0:18:20.56,Default,,0,0,0,,Those girls are actually not astrological twins.
-Dialogue: 0,0:18:20.56,0:18:22.42,Default,,0,0,0,,Please take a look at this register.
-Dialogue: 0,0:18:22.42,0:18:25.41,Default,,0,0,0,,Luise and Lotte \Nwere really born on the same day!
-Dialogue: 0,0:18:25.41,0:18:27.25,Default,,0,0,0,,It simply cannot be a coincidence.
-Dialogue: 0,0:18:27.25,0:18:30.56,Default,,0,0,0,,Yes, that's what I had concluded, too, Fraulein Ulrica.
-Dialogue: 0,0:18:31.08,0:18:33.11,Default,,0,0,0,,Then, you knew this already?
-Dialogue: 0,0:18:33.11,0:18:37.45,Default,,0,0,0,,After writing down Lotte's birthday, \NI immediately compared it to Luise's in the register. {/after listening to lotte's story, I compared it to record on louse in the register - unsure what exactly she means by that, she didn't really tell any story to speak of}
-Dialogue: 0,0:18:37.45,0:18:39.97,Default,,0,0,0,,Then, what do we do about this? {unsure what she means by "why/how/what at this rate/in this fashion"}
-Dialogue: 0,0:18:45.43,0:18:48.44,Default,,0,0,0,,It seems, those two are yet to notice it.
-Dialogue: 0,0:18:49.62,0:18:52.61,Default,,0,0,0,,They said they'll take a picture together \Nand send it home.
-Dialogue: 0,0:18:52.61,0:18:55.96,Default,,0,0,0,,If that helps to unravel the knot, \Nall's well and good. {/it would be good if this helps to unravel/solve/untie the thread of mystery}
-Dialogue: 0,0:18:56.30,0:19:01.56,Default,,0,0,0,,However, as mere bystanders, you and me \Nshould limit our long-term interference in their fates. {/refrain from playing a role in their fates/serve as agents of destiny}
-Dialogue: 0,0:19:03.78,0:19:05.70,Default,,0,0,0,,Right, Fraulein Ulrica?
+Dialogue: 0,0:15:36.98,0:15:38.69,Default,,0,0,0,,露特，你口渴吗？
+Dialogue: 0,0:15:38.69,0:15:40.50,Default,,0,0,0,,让我们喝点什么吧。
+Dialogue: 0,0:15:40.50,0:15:41.02,Default,,0,0,0,,但是···
+Dialogue: 0,0:15:41.02,0:15:44.80,Default,,0,0,0,,没事的，放心交给我吧，\n只是稍微绕点路而已，没问题的！{/leave this to me, dropping in on the way; stopping off at; making a side trip, ...}
+Dialogue: 0,0:15:52.65,0:15:55.66,Default,,0,0,0,,露特，你的父亲已经去世很久了吗？
+Dialogue: 0,0:15:56.01,0:15:57.16,Default,,0,0,0,,我不知道。
+Dialogue: 0,0:15:57.73,0:15:59.04,Default,,0,0,0,,完全不记得了。
+Dialogue: 0,0:15:59.37,0:16:02.63,Default,,0,0,0,,妈妈完全不提爸爸相关的事情。
+Dialogue: 0,0:16:03.20,0:16:07.10,Default,,0,0,0,,之前我执意问的时候，\n她露出了很难过的表情， {/when before I persistently was asking, she made a very sad face}
+Dialogue: 0,0:16:07.10,0:16:08.95,Default,,0,0,0,,所以现在我就不再问了。 {/now I don't ask}
+Dialogue: 0,0:16:08.95,0:16:11.22,Default,,0,0,0,,不过我觉得应该没有去世，
+Dialogue: 0,0:16:11.22,0:16:12.60,Default,,0,0,0,,因为我们从来没去过他的墓地。
+Dialogue: 0,0:16:13.76,0:16:16.75,Default,,0,0,0,,我也已经快忘记妈妈的事情了，
+Dialogue: 0,0:16:16.75,0:16:20.93,Default,,0,0,0,,以前有一张她的照片，\n放在爸爸工作室的钢琴上。
+Dialogue: 0,0:16:20.93,0:16:23.50,Default,,0,0,0,,我只记得她是一个很漂亮的人。
+Dialogue: 0,0:16:23.50,0:16:25.70,Default,,0,0,0,,小时候我总是看那张照片。
+Dialogue: 0,0:16:25.70,0:16:28.55,Default,,0,0,0,,有一次，我问爸爸， {really unsure what she means by itkutsunotoki}
+Dialogue: 0,0:16:29.01,0:16:31.53,Default,,0,0,0,,“妈妈现在在哪里？”
+Dialogue: 0,0:16:32.23,0:16:34.41,Default,,0,0,0,,可是爸爸没有回答我。
+Dialogue: 0,0:16:34.84,0:16:36.99,Default,,0,0,0,,第二天，照片就不见了。
+Dialogue: 0,0:16:36.99,0:16:38.99,Default,,0,0,0,,肯定是被他收起来了。
+Dialogue: 0,0:16:39.37,0:16:41.18,Default,,0,0,0,,我们都这么不幸啊。{hope this is what she means "it's not going well"}
+Dialogue: 0,0:16:41.18,0:16:44.21,Default,,0,0,0,,一个没有父亲，\n一个没有母亲。
+Dialogue: 0,0:16:44.89,0:16:48.91,Default,,0,0,0,,除了外貌，我们的\n境遇也这么相似啊。 {/not only our faces, but our circumstances; environment; situation are similar too}
+Dialogue: 0,0:16:48.91,0:16:51.89,Default,,0,0,0,,可能年龄也一样吧，\n你也是十岁，对吗？
+Dialogue: 0,0:16:51.89,0:16:54.78,Default,,0,0,0,,嗯，十月十四号\n就十一岁了。
+Dialogue: 0,0:16:55.51,0:16:56.73,Default,,0,0,0,,十月十四号？
+Dialogue: 0,0:16:57.19,0:16:59.08,Default,,0,0,0,,是的，是我的生日。
+Dialogue: 0,0:16:59.08,0:17:00.28,Default,,0,0,0,,我也是！
+Dialogue: 0,0:17:26.34,0:17:28.02,Default,,0,0,0,,你在哪里出生的？{/where were you born}
+Dialogue: 0,0:17:29.13,0:17:30.97,Default,,0,0,0,,多瑙河畔的林茨。
+Dialogue: 0,0:17:32.74,0:17:33.89,Default,,0,0,0,,我也是!
+Dialogue: 0,0:17:37.35,0:17:40.28,Default,,0,0,0,,我的母亲，叫露易丝露特·珂娜。
+Dialogue: 0,0:17:40.61,0:17:42.31,Default,,0,0,0,,露易丝露特？
+Dialogue: 0,0:17:43.02,0:17:44.15,Default,,0,0,0,,露易丝···
+Dialogue: 0,0:17:44.52,0:17:45.28,Default,,0,0,0,,露特···
+Dialogue: 0,0:17:45.88,0:17:49.27,Default,,0,0,0,,照片，我有妈妈的照片。{写真、私お母さんの写真持ってる。英译中的locker似乎并没有体现，感觉是意译出来的，但本人觉得此处不需要意译}
+Dialogue: 0,0:17:49.68,0:17:50.50,Default,,0,0,0,,让我看看！
+Dialogue: 0,0:17:53.69,0:17:57.12,Default,,0,0,0,,喂喂，现在流行这个吗？{/is this a fashion; trend; vogue; craze; fad; popularity lately/these days?}
+Dialogue: 0,0:17:57.12,0:17:59.64,Default,,0,0,0,,喝了果汁却不付钱···
+Dialogue: 0,0:17:59.64,0:18:00.52,Default,,0,0,0,,对不起。
+Dialogue: 0,0:18:01.94,0:18:03.67,Default,,0,0,0,,等一下，你的零钱···
+Dialogue: 0,0:18:06.31,0:18:10.55,Default,,0,0,0,,那些小毛猴又惹了什么祸？{taking the translation from book, because I have no clue what she means by "those idiots, I wonder what badness did they do/mischief"}
+Dialogue: 0,0:18:14.34,0:18:16.89,Default,,0,0,0,,糟糕了，穆特修斯女士！
+Dialogue: 0,0:18:16.89,0:18:20.56,Default,,0,0,0,,那两个女孩不是星座上的双子，
+Dialogue: 0,0:18:20.56,0:18:22.42,Default,,0,0,0,,看这个名册，
+Dialogue: 0,0:18:22.42,0:18:25.41,Default,,0,0,0,,露易丝和露特是同一天出生的！
+Dialogue: 0,0:18:25.41,0:18:27.25,Default,,0,0,0,,这绝不仅仅是偶然。
+Dialogue: 0,0:18:27.25,0:18:30.56,Default,,0,0,0,,我也这么认为，乌尔丽卡老师。
+Dialogue: 0,0:18:31.08,0:18:33.11,Default,,0,0,0,,您之前就已经知道了？
+Dialogue: 0,0:18:33.11,0:18:37.45,Default,,0,0,0,,在和露特交流之后，我立刻\n查看了露易丝的名册。 {/after listening to lotte's story, I compared it to record on louse in the register - unsure what exactly she means by that, she didn't really tell any story to speak of}
+Dialogue: 0,0:18:37.45,0:18:39.97,Default,,0,0,0,,那为什么一直没说出来呢？ {unsure what she means by "why/how/what at this rate/in this fashion"}
+Dialogue: 0,0:18:45.43,0:18:48.44,Default,,0,0,0,,因为那两个孩子还没有察觉到，
+Dialogue: 0,0:18:49.62,0:18:52.61,Default,,0,0,0,,他们说要拍照片寄回家。
+Dialogue: 0,0:18:52.61,0:18:55.96,Default,,0,0,0,,如果能这样解开谜团\n那就太好了。 {/it would be good if this helps to unravel/solve/untie the thread of mystery}
+Dialogue: 0,0:18:56.30,0:19:01.56,Default,,0,0,0,,不过，你和我还是要谨慎，\n不要干涉命运的安排。{/refrain from playing a role in their fates/serve as agents of destiny}
+Dialogue: 0,0:19:03.78,0:19:05.70,Default,,0,0,0,,对吗？乌尔丽卡老师。
 Dialogue: 0,0:19:40.72,0:19:41.59,Default,,0,0,0,,Mom...
 Dialogue: 0,0:19:49.44,0:19:51.48,Default,,0,0,0,,My mom...
 Dialogue: 0,0:19:55.41,0:19:56.72,Default,,0,0,0,,{\i1}Our{\i0}
