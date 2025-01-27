@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 02.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 257
-Active Line: 267
+Scroll Position: 275
+Active Line: 280
 Video Position: 32061
 
 [V4+ Styles]
@@ -293,19 +293,19 @@ Dialogue: 0,0:18:49.62,0:18:52.61,Default,,0,0,0,,他们说要拍照片寄回家
 Dialogue: 0,0:18:52.61,0:18:55.96,Default,,0,0,0,,如果能这样解开谜团\n那就太好了。 {/it would be good if this helps to unravel/solve/untie the thread of mystery}
 Dialogue: 0,0:18:56.30,0:19:01.56,Default,,0,0,0,,不过，你和我还是要谨慎，\n不要干涉命运的安排。{/refrain from playing a role in their fates/serve as agents of destiny}
 Dialogue: 0,0:19:03.78,0:19:05.70,Default,,0,0,0,,对吗？乌尔丽卡老师。
-Dialogue: 0,0:19:40.72,0:19:41.59,Default,,0,0,0,,Mom...
-Dialogue: 0,0:19:49.44,0:19:51.48,Default,,0,0,0,,My mom...
-Dialogue: 0,0:19:55.41,0:19:56.72,Default,,0,0,0,,{\i1}Our{\i0}
-Dialogue: 0,0:19:57.26,0:19:58.39,Default,,0,0,0,,mom.
-Dialogue: 0,0:19:59.82,0:20:02.89,Default,,0,0,0,,Which means \Nwe really are sisters, aren't we?
-Dialogue: 0,0:20:06.41,0:20:11.44,Default,,0,0,0,,Luise and Lotte had finally discovered \Nthe thread of fate that binds them together. {/connects to each other}
-Dialogue: 0,0:20:11.86,0:20:15.92,Default,,0,0,0,,However, that thread is long \Nand is still lavishly knotty along the way. {/seems to be complexly/difficultly intertwined/entangles}
-Dialogue: 0,0:20:16.83,0:20:21.21,Default,,0,0,0,,How would the two \Nproceed with unraveling this thread further on? {/the two will start ... from now on}
-Dialogue: 0,0:20:21.21,0:20:23.33,Default,,0,0,0,,Perhaps, in a way distinctive to them only? {/... in an unprecedented manner}
+Dialogue: 0,0:19:40.72,0:19:41.59,Default,,0,0,0,,妈妈···
+Dialogue: 0,0:19:49.44,0:19:51.48,Default,,0,0,0,,我的妈妈···
+Dialogue: 0,0:19:55.41,0:19:56.72,Default,,0,0,0,,{\i1}我们的{\i0}
+Dialogue: 0,0:19:57.26,0:19:58.39,Default,,0,0,0,,妈妈。
+Dialogue: 0,0:19:59.82,0:20:02.89,Default,,0,0,0,,我们真的是姐妹啊。
+Dialogue: 0,0:20:06.41,0:20:11.44,Default,,0,0,0,,露易丝和露特找到了\n交织的命运之线。 {/connects to each other}
+Dialogue: 0,0:20:11.86,0:20:15.92,Default,,0,0,0,,但这条线似乎复杂的纠缠着。 {/seems to be complexly/difficultly intertwined/entangles}
+Dialogue: 0,0:20:16.83,0:20:21.21,Default,,0,0,0,,接下来两人将开始解开\n这条线——  {/the two will start ... from now on}
+Dialogue: 0,0:20:21.21,0:20:23.33,Default,,0,0,0,,以她们独有的方式。{/... in an unprecedented manner}
 Dialogue: 0,0:20:24.47,0:20:24.47,Sign,,0,0,0,,{chapter}
-Dialogue: 0,0:20:30.41,0:20:33.94,Sign,,0,0,0,,A miserable Romance {可哀想ね　ロマンス}
-Dialogue: 0,0:20:33.94,0:20:37.40,Sign,,0,0,0,,A tear-jerking nuance {涙誘うニュアンス}
-Dialogue: 0,0:20:37.40,0:20:41.12,Sign,,0,0,0,,If you turn another page of your memories, {想い出のページめくれば}
+Dialogue: 0,0:20:30.41,0:20:33.94,Sign,,0,0,0,,苦涩的浪漫 {可哀想ね　ロマンス}
+Dialogue: 0,0:20:33.94,0:20:37.40,Sign,,0,0,0,,勾起泪水的细腻情感 {涙誘うニュアンス}
+Dialogue: 0,0:20:37.40,0:20:41.12,Sign,,0,0,0,,翻开回忆的篇章{想い出のページめくれば}
 Dialogue: 0,0:20:41.12,0:20:44.03,Sign,,0,0,0,,Here she is - heroine of the past {追憶のヒロイン} {actually, "the heroine of the recollections" but that doesn't have a nice ring to it}
 Dialogue: 0,0:20:52.25,0:20:55.67,Sign,,0,0,0,,I raise my eyes to your face - {あなたの面影　見上げて咲いている}
 Dialogue: 0,0:20:55.67,0:20:59.43,Sign,,0,0,0,,Suddenly, I'm in full bloom {unsure, maybe "it's flourishing"}
@@ -322,10 +322,10 @@ Dialogue: 0,0:21:33.88,0:21:36.65,Sign,,0,0,0,,with heroine of the past {追憶�
 Dialogue: 0,0:21:37.70,0:21:41.47,Sign,,0,0,0,,Miracle that I came across now is hugging me tight {めぐりあえた奇跡　そっと抱きしめて}
 Dialogue: 0,0:21:41.47,0:21:44.88,Sign,,0,0,0,,This is the story of my life, I'll do my best to protect it! {私だけの歴史　守ってゆくわ}
 Dialogue: 0,0:21:48.47,0:21:48.47,Sign,,0,0,0,,{chapter}
-Dialogue: 0,0:21:48.48,0:21:50.00,Sign,,0,0,0,,In the next episode
-Dialogue: 0,0:21:51.74,0:21:53.21,Default,,0,0,0,,I am Luise.
-Dialogue: 0,0:21:53.21,0:21:54.41,Default,,0,0,0,,And I am Lotte.
-Dialogue: 0,0:21:54.41,0:21:58.57,Default,,0,0,0,,Say, Lotte, did you know \Nthat Stephie's parents are getting a divorce?
+Dialogue: 0,0:21:48.48,0:21:50.00,Sign,,0,0,0,,下集预告
+Dialogue: 0,0:21:51.74,0:21:53.21,Default,,0,0,0,,我是露易丝。
+Dialogue: 0,0:21:53.21,0:21:54.41,Default,,0,0,0,,我是露特。
+Dialogue: 0,0:21:54.41,0:21:58.57,Default,,0,0,0,,对了，露特，史蒂菲的\n父母要离婚你知道吗？
 Dialogue: 0,0:21:58.57,0:22:02.85,Default,,0,0,0,,Yes. They have already started the hearings \Nto decide, which parent she is staying with. {/trials}
 Dialogue: 0,0:22:02.85,0:22:04.12,Default,,0,0,0,,It's cruel, don't you think?
 Dialogue: 0,0:22:04.12,0:22:07.87,Default,,0,0,0,,While sending Stephie away for summer vacations, \Ndoing such a thing behind her back!
