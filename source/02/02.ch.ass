@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 02.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 275
-Active Line: 280
+Scroll Position: 284
+Active Line: 303
 Video Position: 32061
 
 [V4+ Styles]
@@ -306,30 +306,27 @@ Dialogue: 0,0:20:24.47,0:20:24.47,Sign,,0,0,0,,{chapter}
 Dialogue: 0,0:20:30.41,0:20:33.94,Sign,,0,0,0,,苦涩的浪漫 {可哀想ね　ロマンス}
 Dialogue: 0,0:20:33.94,0:20:37.40,Sign,,0,0,0,,勾起泪水的细腻情感 {涙誘うニュアンス}
 Dialogue: 0,0:20:37.40,0:20:41.12,Sign,,0,0,0,,翻开回忆的篇章{想い出のページめくれば}
-Dialogue: 0,0:20:41.12,0:20:44.03,Sign,,0,0,0,,Here she is - heroine of the past {追憶のヒロイン} {actually, "the heroine of the recollections" but that doesn't have a nice ring to it}
-Dialogue: 0,0:20:52.25,0:20:55.67,Sign,,0,0,0,,I raise my eyes to your face - {あなたの面影　見上げて咲いている}
-Dialogue: 0,0:20:55.67,0:20:59.43,Sign,,0,0,0,,Suddenly, I'm in full bloom {unsure, maybe "it's flourishing"}
-Dialogue: 0,0:20:59.43,0:21:02.97,Sign,,0,0,0,,A sunflower amidst the blizzard - {act. in the middle of winter}
-Dialogue: 0,0:21:02.97,0:21:06.37,Sign,,0,0,0,,that would be me, my dear {真冬のひまわり　それが私なの}
-Dialogue: 0,0:21:06.81,0:21:09.54,Sign,,0,0,0,,Always on the verge of freezing, {凍えるような気持ちでいつも}
-Dialogue: 0,0:21:10.39,0:21:12.94,Sign,,0,0,0,,My feelings are out of control -
-Dialogue: 0,0:21:12.94,0:21:17.49,Sign,,0,0,0,,Too stiff to even say "Do you still love me?" {「好き?」と尋くこともできず}
-Dialogue: 0,0:21:17.49,0:21:21.64,Sign,,0,0,0,,My lips just keep wavering in this wind! {風に揺れていたわ}
-Dialogue: 0,0:21:23.19,0:21:26.84,Sign,,0,0,0,,A pitiful Romance {いじらしいね　ロマンス}
-Dialogue: 0,0:21:26.84,0:21:30.25,Sign,,0,0,0,,Something that only happens in dreams: {夢のような出来事}
-Dialogue: 0,0:21:30.25,0:21:33.88,Sign,,0,0,0,,Trying hard to forget, I fell even more in love {忘れるために愛したの}
-Dialogue: 0,0:21:33.88,0:21:36.65,Sign,,0,0,0,,with heroine of the past {追憶のヒロイン}
-Dialogue: 0,0:21:37.70,0:21:41.47,Sign,,0,0,0,,Miracle that I came across now is hugging me tight {めぐりあえた奇跡　そっと抱きしめて}
-Dialogue: 0,0:21:41.47,0:21:44.88,Sign,,0,0,0,,This is the story of my life, I'll do my best to protect it! {私だけの歴史　守ってゆくわ}
+Dialogue: 0,0:20:41.12,0:20:44.03,Sign,,0,0,0,,记忆中的女主角 {追憶のヒロイン} {actually, "the heroine of the recollections" but that doesn't have a nice ring to it}
+Dialogue: 0,0:20:52.25,0:20:55.67,Sign,,0,0,0,,我抬头仰望你的身影，绽放{あなたの面影　見上げて咲いている}
+Dialogue: 0,0:20:55.67,0:20:59.43,Sign,,0,0,0,,在隆冬里的向日葵，就是我。{unsure, maybe "it's flourishing"}
+Dialogue: 0,0:20:59.43,0:21:02.97,Sign,,0,0,0,,总是带着几近冻结的心情 {act. in the middle of winter}
+Dialogue: 0,0:21:02.97,0:21:06.37,Sign,,0,0,0,,连一句“你爱我吗”都不敢问
+Dialogue: 0,0:21:06.81,0:21:09.54,Sign,,0,0,0,,只能随风摇曳
+Dialogue: 0,0:21:23.19,0:21:26.84,Sign,,0,0,0,,心酸的浪漫
+Dialogue: 0,0:21:26.84,0:21:30.25,Sign,,0,0,0,,如梦一般的往事 {夢のような出来事}
+Dialogue: 0,0:21:30.25,0:21:33.88,Sign,,0,0,0,,这份爱越想遗忘，越是深陷 {忘れるために愛したの}
+Dialogue: 0,0:21:33.88,0:21:36.65,Sign,,0,0,0,,记忆中的女主角 {追憶のヒロイン}
+Dialogue: 0,0:21:37.70,0:21:41.47,Sign,,0,0,0,,奇迹般的邂逅，轻轻拥抱着我。 {めぐりあえた奇跡　そっと抱きしめて}
+Dialogue: 0,0:21:41.47,0:21:44.88,Sign,,0,0,0,,守护着只属于我的那段历史。 {私だけの歴史　守ってゆくわ}
 Dialogue: 0,0:21:48.47,0:21:48.47,Sign,,0,0,0,,{chapter}
 Dialogue: 0,0:21:48.48,0:21:50.00,Sign,,0,0,0,,下集预告
 Dialogue: 0,0:21:51.74,0:21:53.21,Default,,0,0,0,,我是露易丝。
 Dialogue: 0,0:21:53.21,0:21:54.41,Default,,0,0,0,,我是露特。
 Dialogue: 0,0:21:54.41,0:21:58.57,Default,,0,0,0,,对了，露特，史蒂菲的\n父母要离婚你知道吗？
-Dialogue: 0,0:21:58.57,0:22:02.85,Default,,0,0,0,,Yes. They have already started the hearings \Nto decide, which parent she is staying with. {/trials}
-Dialogue: 0,0:22:02.85,0:22:04.12,Default,,0,0,0,,It's cruel, don't you think?
-Dialogue: 0,0:22:04.12,0:22:07.87,Default,,0,0,0,,While sending Stephie away for summer vacations, \Ndoing such a thing behind her back!
-Dialogue: 0,0:22:07.87,0:22:09.49,Default,,0,0,0,,Poor Stephie!
-Dialogue: 0,0:22:09.49,0:22:12.79,Default,,0,0,0,,I wonder if we would ever be able to understand \Nthe feelings overflowing her now!
-Dialogue: 0,0:22:12.79,0:22:17.42,Default,,0,0,0,,Next time in I and Myself: \NOath by the Lake. Don't miss it!
-Dialogue: 0,0:22:14.98,0:22:18.32,Sign,,0,0,0,,Episode 3\NOath by the Lake {湖の誓い} \N\N\N\N\N\N \h {\bord\blur0.8\fs20\c&HE3CDD8&\1a&H10&\3c&H767E27&}Translated by Perevodildo | Timings by Sub-RoRo
+Dialogue: 0,0:21:58.57,0:22:02.85,Default,,0,0,0,,嗯，听说已经要开听证会决定\n她和父亲还是母亲一起生活。{/trials}
+Dialogue: 0,0:22:02.85,0:22:04.12,Default,,0,0,0,,你不觉得很过分吗？
+Dialogue: 0,0:22:04.12,0:22:07.87,Default,,0,0,0,,送史蒂菲去度假，\n背后却做那样的事情！
+Dialogue: 0,0:22:07.87,0:22:09.49,Default,,0,0,0,,可怜的史蒂菲！
+Dialogue: 0,0:22:09.49,0:22:12.79,Default,,0,0,0,,不知道她现在是什么心情。
+Dialogue: 0,0:22:12.79,0:22:17.42,Default,,0,0,0,,下一集——我和我自己：\n湖畔之誓。不要错过！
+Dialogue: 0,0:22:14.98,0:22:18.32,Sign,,0,0,0,,第三集\N湖畔之誓{湖の誓い} \N\N\N\N\N\N \h {\bord\blur0.8\fs20\c&HE3CDD8&\1a&H10&\3c&H767E27&}翻译：Aughtty | 时轴：
