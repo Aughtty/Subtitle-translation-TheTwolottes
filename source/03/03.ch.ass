@@ -14,8 +14,8 @@ Video File: Watashi To Watashi Futari No Lotte - 03.avi
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.625000
-Scroll Position: 306
-Active Line: 311
+Scroll Position: 339
+Active Line: 351
 Video Position: 11470
 
 [V4+ Styles]
@@ -337,43 +337,43 @@ Dialogue: 0,0:18:33.78,0:18:37.58,Default,,0,0,0,,如果我变成你，就能见
 Dialogue: 0,0:18:39.49,0:18:42.19,Default,,0,0,0,,我变成你，去维也纳。
 Dialogue: 0,0:18:42.19,0:18:44.83,Default,,0,0,0,,你变成我，去慕尼黑。
 Dialogue: 0,0:18:48.09,0:18:49.34,Default,,0,0,0,,太棒了！
-Dialogue: 0,0:18:49.63,0:18:52.01,Default,,0,0,0,,Your idea is by a mile brighter than mine!
-Dialogue: 0,0:18:52.55,0:18:54.59,Default,,0,0,0,,It's great, if we both switch places! {/become one another}
-Dialogue: 0,0:18:54.59,0:18:56.84,Default,,0,0,0,,But... are you sure it'll work?
-Dialogue: 0,0:18:56.84,0:18:59.76,Default,,0,0,0,,You've seen yourself how alike we are. \NNo way it doesn't work!
-Dialogue: 0,0:18:59.76,0:19:01.50,Default,,0,0,0,,We can do it, Lotte! {/let's try}
-Dialogue: 0,0:19:06.69,0:19:08.33,Default,,0,0,0,,I'll get to meet my mom!
-Dialogue: 0,0:19:08.33,0:19:10.06,Default,,0,0,0,,And I'll meet my dad.
-Dialogue: 0,0:19:10.06,0:19:11.85,Default,,0,0,0,,I'm so excited to get to know him! {lit: i wanna know various things}
-Dialogue: 0,0:19:11.85,0:19:14.82,Default,,0,0,0,,And then... Then, if it would seem possible...
-Dialogue: 0,0:19:15.80,0:19:16.89,Default,,0,0,0,,If possible?
-Dialogue: 0,0:19:18.03,0:19:19.48,Default,,0,0,0,,If possible...
-Dialogue: 0,0:19:22.98,0:19:24.40,Default,,0,0,0,,I know what you mean. {/Ithink so too}
-Dialogue: 0,0:19:26.21,0:19:27.96,Default,,0,0,0,,Luise, raise your hand.
-Dialogue: 0,0:19:27.96,0:19:28.71,Default,,0,0,0,,Like this?
-Dialogue: 0,0:19:28.71,0:19:30.46,Default,,0,0,0,,Me and mom do that all the time.
-Dialogue: 0,0:19:31.63,0:19:33.30,Default,,0,0,0,,With this, the promise is sealed. {/token/symbol/evidence/sign}
-Dialogue: 0,0:19:33.84,0:19:36.31,Default,,0,0,0,,We swear an oath of guarding this secret. {word from ep title}
-Dialogue: 0,0:19:45.17,0:19:48.12,Default,,0,0,0,,Before us, a task of unprecedented magnitude. {/we're about to do big/important/difficult thing}
-Dialogue: 0,0:19:48.12,0:19:51.39,Default,,0,0,0,,Starting tomorrow, we'll put our minds \Nto developing the strategy. {lit: immegiately tomorrow-on we've no choice but to kakaru (unsure what it is here) strategy and preparations}
-Dialogue: 0,0:19:51.39,0:19:53.46,Default,,0,0,0,,Let's do our very best, {\i1}Lotte!{\i0}
-Dialogue: 0,0:19:57.99,0:19:59.99,Default,,0,0,0,,Only after you, {\i1}Luise!{\i0}
-Dialogue: 0,0:20:01.45,0:20:04.20,Default,,0,0,0,,What just started as but a vague idea, {lit: tiny plan; strategy began}
-Dialogue: 0,0:20:04.83,0:20:07.31,Default,,0,0,0,,unbeknownst to the two girls behind it,
-Dialogue: 0,0:20:07.31,0:20:11.29,Default,,0,0,0,,is yet to evolve into a daring adventure \Nthrough the uncharted seas. {lit: require something like an embarkation on a great adventure/grand trip/voyage through unknown/unmarked seas/waters}
-Dialogue: 0,0:20:11.29,0:20:15.19,Default,,0,0,0,,However, Luise and Lotte \Nknow that this journey is not for the faint of heart. {unsure, maybe he means the completely opposite: they hearts tremble/dance in excitement for the adventure}
-Dialogue: 0,0:20:15.19,0:20:18.61,Default,,0,0,0,,They set their sights on an untrodden new continent. {/they dream of discovering a new continent}
-Dialogue: 0,0:20:18.61,0:20:23.16,Default,,0,0,0,,What's left for us to just bring a prayer \Nthat the seas stay calm on their way. {/at least, let's pray ...}
-Dialogue: 0,0:21:48.69,0:21:50.24,Sign,,0,0,0,,In the next episode
-Dialogue: 0,0:21:52.02,0:21:53.27,Default,,0,0,0,,I'm Luise!
-Dialogue: 0,0:21:53.27,0:21:54.11,Default,,0,0,0,,And I'm Lotte!
-Dialogue: 0,0:21:54.65,0:21:56.10,Default,,0,0,0,,I'm supposed to be good at cooking?
-Dialogue: 0,0:21:56.10,0:21:59.46,Default,,0,0,0,,Of course! Mom always returns late from her work.
-Dialogue: 0,0:21:59.46,0:22:01.39,Default,,0,0,0,,Does that mean \Ncleaning and laundry, too?
-Dialogue: 0,0:22:01.39,0:22:03.74,Default,,0,0,0,,Naturally! There's no housekeeping you can't do.
-Dialogue: 0,0:22:03.74,0:22:06.99,Default,,0,0,0,,After all, mom calls me \Nher little housekeeper for a reason!
-Dialogue: 0,0:22:06.99,0:22:08.66,Default,,0,0,0,,No way! I can't do all that.
-Dialogue: 0,0:22:08.66,0:22:11.41,Default,,0,0,0,,For my whole life, \Nwe had a servant Resi at our place.
-Dialogue: 0,0:22:11.91,0:22:13.79,Default,,0,0,0,,This would be troublesome. {/this is not how it's supposed to be}
-Dialogue: 0,0:22:13.79,0:22:18.36,Default,,0,0,0,,Next time in I and Myself: \NOnset of the Operation. Don't miss it! {作戦開始}
-Dialogue: 0,0:22:15.19,0:22:18.36,Sign,,0,0,0,,Episode 4 \N Onset of the Operation {作戦開始} \N\N\N\N\N\N \h {\bord\blur0.8\fs20\c&HE3CDD8&\1a&H10&\3c&H767E27&}Translated by Perevodildo | Timings by Sub-RoRo
+Dialogue: 0,0:18:49.63,0:18:52.01,Default,,0,0,0,,这个想法真是太棒了！
+Dialogue: 0,0:18:52.55,0:18:54.59,Default,,0,0,0,,也就是说，我们两个要交换身份。
+Dialogue: 0,0:18:54.59,0:18:56.84,Default,,0,0,0,,不过，不知道能不能成功。
+Dialogue: 0,0:18:56.84,0:18:59.76,Default,,0,0,0,,长得这么像，\n应该能够成功吧。
+Dialogue: 0,0:18:59.76,0:19:01.50,Default,,0,0,0,,试试看吧，露特！
+Dialogue: 0,0:19:06.69,0:19:08.33,Default,,0,0,0,,我能见到妈妈了！
+Dialogue: 0,0:19:08.33,0:19:10.06,Default,,0,0,0,,我能见到爸爸了！
+Dialogue: 0,0:19:10.06,0:19:11.85,Default,,0,0,0,,想知道好多关于爸爸的事情！
+Dialogue: 0,0:19:11.85,0:19:14.82,Default,,0,0,0,,然后，然后如果可以的话···
+Dialogue: 0,0:19:15.80,0:19:16.89,Default,,0,0,0,,如果可以？
+Dialogue: 0,0:19:18.03,0:19:19.48,Default,,0,0,0,,如果可以的话···
+Dialogue: 0,0:19:22.98,0:19:24.40,Default,,0,0,0,,我也这么想。
+Dialogue: 0,0:19:26.21,0:19:27.96,Default,,0,0,0,,露易丝，伸出手。
+Dialogue: 0,0:19:27.96,0:19:28.71,Default,,0,0,0,,像这样吗？
+Dialogue: 0,0:19:28.71,0:19:30.46,Default,,0,0,0,,我和妈妈经常做这个。
+Dialogue: 0,0:19:31.63,0:19:33.30,Default,,0,0,0,,是约定的象征哦。
+Dialogue: 0,0:19:33.84,0:19:36.31,Default,,0,0,0,,是为了保守秘密，对吧？
+Dialogue: 0,0:19:45.17,0:19:48.12,Default,,0,0,0,,我们要做一件了不得的事情呢。
+Dialogue: 0,0:19:48.12,0:19:51.39,Default,,0,0,0,,从明天开始就要立刻\n着手策划和准备了。
+Dialogue: 0,0:19:51.39,0:19:53.46,Default,,0,0,0,,加油吧，{\i1}露特！{\i0}
+Dialogue: 0,0:19:57.99,0:19:59.99,Default,,0,0,0,,你也是哦， {\i1}露易丝！{\i0}
+Dialogue: 0,0:20:01.45,0:20:04.20,Default,,0,0,0,,一场小小的阴谋就这样开始了。
+Dialogue: 0,0:20:04.83,0:20:07.31,Default,,0,0,0,,对于还是孩子的两人，
+Dialogue: 0,0:20:07.31,0:20:11.29,Default,,0,0,0,,这就像是踏上\n未知海洋的大冒险。
+Dialogue: 0,0:20:11.29,0:20:15.19,Default,,0,0,0,,但对于露易丝和露特\n来说，她们的心因为冒险而激动不已。
+Dialogue: 0,0:20:15.19,0:20:18.61,Default,,0,0,0,,她们憧憬着发现新大陆。{/they dream of discovering a new continent}
+Dialogue: 0,0:20:18.61,0:20:23.16,Default,,0,0,0,,至少，祈祷这片海\n能够风平浪静吧。
+Dialogue: 0,0:21:48.69,0:21:50.24,Sign,,0,0,0,,下集预告
+Dialogue: 0,0:21:52.02,0:21:53.27,Default,,0,0,0,,我是露易丝。
+Dialogue: 0,0:21:53.27,0:21:54.11,Default,,0,0,0,,我是露特。
+Dialogue: 0,0:21:54.65,0:21:56.10,Default,,0,0,0,,欸，我要做饭吗？
+Dialogue: 0,0:21:56.10,0:21:59.46,Default,,0,0,0,,是的，因为妈妈总是很晚回家。
+Dialogue: 0,0:21:59.46,0:22:01.39,Default,,0,0,0,,难道打扫和洗衣服也是我吗？
+Dialogue: 0,0:22:01.39,0:22:03.74,Default,,0,0,0,,当然！能做的家务都要做！
+Dialogue: 0,0:22:03.74,0:22:06.99,Default,,0,0,0,,\N毕竟，妈妈叫我“小小主妇”呢。
+Dialogue: 0,0:22:06.99,0:22:08.66,Default,,0,0,0,,不可能，我做不到！
+Dialogue: 0,0:22:08.66,0:22:11.41,Default,,0,0,0,,因为我们家有保姆蕾吉。
+Dialogue: 0,0:22:11.91,0:22:13.79,Default,,0,0,0,,这就有点难办了···
+Dialogue: 0,0:22:13.79,0:22:18.36,Default,,0,0,0,,下一集——我和我自己：\n 作战开始。不要错过！ {作戦開始}
+Dialogue: 0,0:22:15.19,0:22:18.36,Sign,,0,0,0,,第四集 \N 作战开始 {作戦開始} \N\N\N\N\N\N \h {\bord\blur0.8\fs20\c&HE3CDD8&\1a&H10&\3c&H767E27&}翻译：Aughtty | Timings by Sub-RoRo
